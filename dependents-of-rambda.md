@@ -1,4 +1,4 @@
-# Popular dependents of **Rambda** list
+# Popular dependents of **Rambda**
 
 This list contains Github repos depending on **selfrefactor/rambda**. 
 
@@ -22,43 +22,49 @@ Ramda Adjunct is the most popular and most comprehensive set of functional utili
 
 Upgradeable variant of OpenZeppelin Contracts, meant for use in upgradeable contracts. 
 
-[OpenZeppelin/openzeppelin-contracts-upgradeable](https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable) - 🌟 613
+[OpenZeppelin/openzeppelin-contracts-upgradeable](https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable) - 🌟 622
 
 ## nymtech/nym
 
 Nym provides strong network-level privacy against sophisticated end-to-end attackers, and anonymous transactions using blinded, re-randomizable, decentralized credentials.
 
-[nymtech/nym](https://github.com/nymtech/nym) - 🌟 582
+[nymtech/nym](https://github.com/nymtech/nym) - 🌟 583
 
 ## caderek/benny
 
 A dead simple benchmarking framework for JS/TS libs
 
-[caderek/benny](https://github.com/caderek/benny) - 🌟 578
+[caderek/benny](https://github.com/caderek/benny) - 🌟 582
 
 ## hypothesis/client
 
 The Hypothesis web-based annotation client.
 
-[hypothesis/client](https://github.com/hypothesis/client) - 🌟 516
+[hypothesis/client](https://github.com/hypothesis/client) - 🌟 518
 
 ## mobily/ts-belt
 
 🔧 Fast, modern, and practical utility library for FP in TypeScript.
 
-[mobily/ts-belt](https://github.com/mobily/ts-belt) - 🌟 511
+[mobily/ts-belt](https://github.com/mobily/ts-belt) - 🌟 513
 
 ## couchbase/couchnode
 
 Couchbase Node.js Client Library (Official)
 
-[couchbase/couchnode](https://github.com/couchbase/couchnode) - 🌟 460
+[couchbase/couchnode](https://github.com/couchbase/couchnode) - 🌟 459
+
+## serenity-js/serenity-js
+
+A next generation, full-stack acceptance testing framework optimised for collaboration, speed and scale!
+
+[serenity-js/serenity-js](https://github.com/serenity-js/serenity-js) - 🌟 439
 
 ## outsideris/citizen
 
 A Private Terraform Module/Provider Registry
 
-[outsideris/citizen](https://github.com/outsideris/citizen) - 🌟 424
+[outsideris/citizen](https://github.com/outsideris/citizen) - 🌟 431
 
 ## foxdonut/meiosis
 
@@ -70,7 +76,7 @@ meiosis
 
 🖇 React library of commonly used Ethereum hooks
 
-[scaffold-eth/eth-ui](https://github.com/scaffold-eth/eth-ui) - 🌟 400
+[scaffold-eth/eth-ui](https://github.com/scaffold-eth/eth-ui) - 🌟 401
 
 ## jshemas/openGraphScraper
 
@@ -106,7 +112,7 @@ LoopBack 4 Example: Online Shopping APIs
 
 Open Collective's API. A GraphQL API powered by Sequelize and PostgreSQL.
 
-[opencollective/opencollective-api](https://github.com/opencollective/opencollective-api) - 🌟 325
+[opencollective/opencollective-api](https://github.com/opencollective/opencollective-api) - 🌟 326
 
 ## zachowj/node-red-contrib-home-assistant-websocket
 
@@ -136,13 +142,13 @@ Update Ember CLI projects
 
 Visualise your Prisma schema!
 
-[Ovyerus/prismaliser](https://github.com/Ovyerus/prismaliser) - 🌟 268
+[Ovyerus/prismaliser](https://github.com/Ovyerus/prismaliser) - 🌟 271
 
 ## appium/appium-inspector
 
 A GUI inspector for mobile apps and more, powered by a (separately installed) Appium server
 
-[appium/appium-inspector](https://github.com/appium/appium-inspector) - 🌟 266
+[appium/appium-inspector](https://github.com/appium/appium-inspector) - 🌟 270
 
 ## lo1tuma/eslint-plugin-mocha
 
@@ -154,23 +160,23 @@ ESLint rules for mocha
 
 A catalog of microservices created by Sourcefuse for the community
 
-[sourcefuse/loopback4-microservice-catalog](https://github.com/sourcefuse/loopback4-microservice-catalog) - 🌟 255
-
-## scalameta/metals-vscode
-
-Visual Studio Code extension for Metals
-
-[scalameta/metals-vscode](https://github.com/scalameta/metals-vscode) - 🌟 253
+[sourcefuse/loopback4-microservice-catalog](https://github.com/sourcefuse/loopback4-microservice-catalog) - 🌟 256
 
 ## boxyhq/jackson
 
 SAML Jackson: A SAML SSO service designed as an OAuth 2.0 or OpenID Connect flow. Integrate SAML with just a few lines of code. Demo - https://saml-demo.boxyhq.com
 
-[boxyhq/jackson](https://github.com/boxyhq/jackson) - 🌟 250
+[boxyhq/jackson](https://github.com/boxyhq/jackson) - 🌟 256
+
+## scalameta/metals-vscode
+
+Visual Studio Code extension for Metals
+
+[scalameta/metals-vscode](https://github.com/scalameta/metals-vscode) - 🌟 254
 
 ## mui/material-ui-docs
 
-⚠️ Please don't submit PRs here as they will be closed. To submit translations please visit https://translate.material-ui.com. To edit the English docs or source code, please use the main repository:
+⚠️ Please don't submit PRs here as they will be closed. To edit the docs or source code, please use the main repository:
 
 [mui/material-ui-docs](https://github.com/mui/material-ui-docs) - 🌟 242
 
@@ -208,7 +214,7 @@ converts gettext .mo or .po to 18next json format and vice versa
 
 Simple infrastructure that enables Web3 wallets and applications to provide seamless user logins for both mainstream and Web3.0 users.
 
-[Web3Auth/Web3Auth](https://github.com/Web3Auth/Web3Auth) - 🌟 171
+[Web3Auth/Web3Auth](https://github.com/Web3Auth/Web3Auth) - 🌟 172
 
 ## jhipster/generator-jhipster-ionic
 
@@ -226,7 +232,7 @@ Ionic for JHipster ✨
 
 View and visually edit JSON-based forms.
 
-[bpmn-io/form-js](https://github.com/bpmn-io/form-js) - 🌟 164
+[bpmn-io/form-js](https://github.com/bpmn-io/form-js) - 🌟 167
 
 ## 1024pix/pix
 
@@ -236,13 +242,13 @@ Service public d'évaluation et de certification des compétences numériques po
 
 ## postmanlabs/postman-runtime
 
-[postmanlabs/postman-runtime](https://github.com/postmanlabs/postman-runtime) - 🌟 156
+[postmanlabs/postman-runtime](https://github.com/postmanlabs/postman-runtime) - 🌟 157
 
 ## javierbrea/cypress-localstorage-commands
 
 Extends Cypress' cy commands with localStorage methods. Allows preserving localStorage between tests and spec files. Allows disabling localStorage.
 
-[javierbrea/cypress-localstorage-commands](https://github.com/javierbrea/cypress-localstorage-commands) - 🌟 152
+[javierbrea/cypress-localstorage-commands](https://github.com/javierbrea/cypress-localstorage-commands) - 🌟 154
 
 ## readmeio/oas
 
@@ -302,7 +308,7 @@ Framework Maker for JavaScript Applications
 
 📦   React library of commonly used Ethereum components
 
-[scaffold-eth/eth-components](https://github.com/scaffold-eth/eth-components) - 🌟 104
+[scaffold-eth/eth-components](https://github.com/scaffold-eth/eth-components) - 🌟 106
 
 ## jan-molak/tiny-types
 
@@ -314,7 +320,7 @@ A tiny library that brings Tiny Types to JavaScript and TypeScript
 
 Pluggable auth infrastructure for Web3 wallets and dapps
 
-[torusresearch/OpenLoginSdk](https://github.com/torusresearch/OpenLoginSdk) - 🌟 100
+[torusresearch/OpenLoginSdk](https://github.com/torusresearch/OpenLoginSdk) - 🌟 101
 
 ## zyxd/svelte-store-router
 
@@ -334,17 +340,23 @@ PostgreSQL adapter for SAP CDS (CAP)
 
 [sapmentors/cds-pg](https://github.com/sapmentors/cds-pg) - 🌟 88
 
-## strvcom/code-quality-tools
-
-Monorepo with some frequently-used configurations we use on projects 🎨
-
-[strvcom/code-quality-tools](https://github.com/strvcom/code-quality-tools) - 🌟 86
-
 ## Fr0stbyteR/jspatcher
 
 a Visual Programming Language (VPL) in Max/PureData style
 
-[Fr0stbyteR/jspatcher](https://github.com/Fr0stbyteR/jspatcher) - 🌟 86
+[Fr0stbyteR/jspatcher](https://github.com/Fr0stbyteR/jspatcher) - 🌟 87
+
+## strvcom/code-quality-tools
+
+Monorepo with some frequently-used configurations we use on projects 🎨
+
+[strvcom/code-quality-tools](https://github.com/strvcom/code-quality-tools) - 🌟 85
+
+## Azure/autorest.csharp
+
+Extension for AutoRest (https://github.com/Azure/autorest) that generates C# code
+
+[Azure/autorest.csharp](https://github.com/Azure/autorest.csharp) - 🌟 83
 
 ## rhysd/action-setup-vim
 
@@ -382,12 +394,6 @@ Sandbox for Postman Scripts to run in Node.js or browser
 
 [postmanlabs/postman-sandbox](https://github.com/postmanlabs/postman-sandbox) - 🌟 73
 
-## torusresearch/torus-embed
-
-Embeds the Torus Wallet directly in your application via torus-embed. Exposes a Web3 Provider.
-
-[torusresearch/torus-embed](https://github.com/torusresearch/torus-embed) - 🌟 68
-
 ## qlik-oss/nebula.js
 
 Product and framework agnostic integration APIs for Qlik's Associative Engine
@@ -399,6 +405,12 @@ Product and framework agnostic integration APIs for Qlik's Associative Engine
 An open standard for threshold key management
 
 [tkey/tkey](https://github.com/tkey/tkey) - 🌟 67
+
+## torusresearch/torus-embed
+
+Embeds the Torus Wallet directly in your application via torus-embed. Exposes a Web3 Provider.
+
+[torusresearch/torus-embed](https://github.com/torusresearch/torus-embed) - 🌟 67
 
 ## godaddy/javascript
 
@@ -434,7 +446,7 @@ Tools that allow applications to interact with the Torus Network. For integratio
 
 Bancor is a decentralized trading and yield protocol. Its network of on-chain automated market makers (AMMs) supports instant token-to-token trades, as well as single-sided liquidity provision, auto-compounding rewards and 100% impermanent loss protection for any listed asset.
 
-[bancorprotocol/contracts-v3](https://github.com/bancorprotocol/contracts-v3) - 🌟 62
+[bancorprotocol/contracts-v3](https://github.com/bancorprotocol/contracts-v3) - 🌟 64
 
 ## SAP-samples/ui5-cap-event-app
 
@@ -484,23 +496,23 @@ Wrap your tests in a sandbox with auto-cleanup
 
 [ecadlabs/taqueria](https://github.com/ecadlabs/taqueria) - 🌟 45
 
+## readmeio/rdme
+
+ReadMe's official CLI and GitHub Action
+
+[readmeio/rdme](https://github.com/readmeio/rdme) - 🌟 43
+
 ## GeoDaCenter/covid
 
 COVID Atlas alpha code
 
 [GeoDaCenter/covid](https://github.com/GeoDaCenter/covid) - 🌟 42
 
-## readmeio/rdme
-
-ReadMe's official CLI and GitHub Action
-
-[readmeio/rdme](https://github.com/readmeio/rdme) - 🌟 42
-
 ## davesag/mock-req-res
 
 Extensible mock req / res objects for use in unit tests of Express controller and middleware functions.
 
-[davesag/mock-req-res](https://github.com/davesag/mock-req-res) - 🌟 39
+[davesag/mock-req-res](https://github.com/davesag/mock-req-res) - 🌟 40
 
 ## dotcore64/i18next-fetch-backend
 
@@ -532,17 +544,17 @@ Update Create React App projects
 
 [kellyselden/create-react-app-updater](https://github.com/kellyselden/create-react-app-updater) - 🌟 36
 
+## nayms/contracts2
+
+Nayms smart contracts V2
+
+[nayms/contracts2](https://github.com/nayms/contracts2) - 🌟 36
+
 ## hypothesis/lms
 
 LTI app for integrating with learning management systems
 
 [hypothesis/lms](https://github.com/hypothesis/lms) - 🌟 35
-
-## nayms/contracts2
-
-Nayms smart contracts
-
-[nayms/contracts2](https://github.com/nayms/contracts2) - 🌟 34
 
 ## osm-search/nominatim-ui
 
@@ -646,6 +658,12 @@ A loopback-next extension for implementing audit logs in loopback applications f
 
 [sourcefuse/loopback4-audit-log](https://github.com/sourcefuse/loopback4-audit-log) - 🌟 26
 
+## LiskHQ/lisk-service
+
+:calling: API based service provider to Lisk user interfaces
+
+[LiskHQ/lisk-service](https://github.com/LiskHQ/lisk-service) - 🌟 26
+
 ## postmanlabs/uvm
 
 Universal Virtual Machine for Node and Browser
@@ -657,12 +675,6 @@ Universal Virtual Machine for Node and Browser
 An Insomnia plugin for handling authentication and encryption for consuming Mastercard APIs.
 
 [Mastercard/insomnia-plugin-mastercard](https://github.com/Mastercard/insomnia-plugin-mastercard) - 🌟 25
-
-## LiskHQ/lisk-service
-
-:calling: API based service provider to Lisk user interfaces
-
-[LiskHQ/lisk-service](https://github.com/LiskHQ/lisk-service) - 🌟 25
 
 ## freshollie/fresh-configurator
 
@@ -784,6 +796,12 @@ A mock server for the Algolia search engine allowing integration testing without
 
 [davesag/mock-algolia](https://github.com/davesag/mock-algolia) - 🌟 18
 
+## mozilla-rally/web-science
+
+WebScience is an open-source library for building browser-based research studies, including on Rally.
+
+[mozilla-rally/web-science](https://github.com/mozilla-rally/web-science) - 🌟 18
+
 ## ericcornelissen/svgo-action
 
 Automatically run SVGO with GitHub Actions
@@ -795,12 +813,6 @@ Automatically run SVGO with GitHub Actions
 Semantic parser for API specifications
 
 [swagger-api/apidom](https://github.com/swagger-api/apidom) - 🌟 18
-
-## mozilla-rally/web-science
-
-WebScience is an open-source library for building browser-based research studies, including on Rally.
-
-[mozilla-rally/web-science](https://github.com/mozilla-rally/web-science) - 🌟 17
 
 ## nikku/eslint-plugin-license-header
 
@@ -848,11 +860,23 @@ Node.js postgres connection pool implementation for node-pg
 
 [LykkeCity/LykkeTerminalWeb](https://github.com/LykkeCity/LykkeTerminalWeb) - 🌟 16
 
+## socialtables/saml-protocol
+
+A framework-agnostic SAML protocol implementation for service and identity providers
+
+[socialtables/saml-protocol](https://github.com/socialtables/saml-protocol) - 🌟 15
+
 ## torusresearch/torus.js
 
 Handle communication with torus nodes
 
 [torusresearch/torus.js](https://github.com/torusresearch/torus.js) - 🌟 15
+
+## nearform/autocannon-ui
+
+A Graphical user interface for autocannon providing the same user experience
+
+[nearform/autocannon-ui](https://github.com/nearform/autocannon-ui) - 🌟 15
 
 ## panoply/spx
 
@@ -906,11 +930,11 @@ With Sign-in With Web3, users will be able to take control of their digital iden
 
 [Web3Auth/sign-in-with-web3](https://github.com/Web3Auth/sign-in-with-web3) - 🌟 14
 
-## nearform/autocannon-ui
+## godaddy/pullie
 
-A Graphical user interface for autocannon providing the same user experience
+A GitHub bot that makes your PRs better
 
-[nearform/autocannon-ui](https://github.com/nearform/autocannon-ui) - 🌟 14
+[godaddy/pullie](https://github.com/godaddy/pullie) - 🌟 14
 
 ## AlexProgrammerDE/PistonBot
 
@@ -930,17 +954,23 @@ CLI to convert CDS models to Typescript interfaces and enumerations
 
 [mrbandler/cds2types](https://github.com/mrbandler/cds2types) - 🌟 14
 
+## jhildenbiddle/class-change
+
+A micro-library for manipulating CSS class names, triggering change events using HTML data attributes, and creating declarative class-related event listeners
+
+[jhildenbiddle/class-change](https://github.com/jhildenbiddle/class-change) - 🌟 13
+
+## gajus/postgres-bridge
+
+postgres/pg compatibility layer
+
+[gajus/postgres-bridge](https://github.com/gajus/postgres-bridge) - 🌟 13
+
 ## donategifts/donategifts
 
 This web app offers users to send holiday gifts and school supplies to the children in foster care and emergency shelters. 
 
 [donategifts/donategifts](https://github.com/donategifts/donategifts) - 🌟 13
-
-## godaddy/pullie
-
-A GitHub bot that makes your PRs better
-
-[godaddy/pullie](https://github.com/godaddy/pullie) - 🌟 13
 
 ## mrbandler/cds-routing-handlers
 
@@ -981,6 +1011,14 @@ Replay your .slp files in the browser. Still in development
 TypeScript based Wollok language implementation
 
 [uqbar-project/wollok-ts](https://github.com/uqbar-project/wollok-ts) - 🌟 12
+
+## torusresearch/solana-wallet
+
+[torusresearch/solana-wallet](https://github.com/torusresearch/solana-wallet) - 🌟 11
+
+## ChavaSobreyra/nuxt3-firebase-saas
+
+[ChavaSobreyra/nuxt3-firebase-saas](https://github.com/ChavaSobreyra/nuxt3-firebase-saas) - 🌟 11
 
 ## whitfin/dot-notes-js
 
@@ -1024,12 +1062,6 @@ Codacy tool for Eslint
 
 [codacy/codacy-eslint](https://github.com/codacy/codacy-eslint) - 🌟 11
 
-## gajus/postgres-bridge
-
-postgres/pg compatibility layer
-
-[gajus/postgres-bridge](https://github.com/gajus/postgres-bridge) - 🌟 10
-
 ## neverendingqs/netlify-deployment-hours-plugin
 
 Block deployment if it is outside of deployment hours.
@@ -1045,6 +1077,12 @@ Block deployment if it is outside of deployment hours.
 A simple web-extension that rewrites vendor specific json content-type value to the standard application/json
 
 [clemstoquart/webextension-json-mime-type](https://github.com/clemstoquart/webextension-json-mime-type) - 🌟 10
+
+## appcelerator/cli-kit
+
+Everything you need to create awesome Node.js command line interfaces
+
+[appcelerator/cli-kit](https://github.com/appcelerator/cli-kit) - 🌟 10
 
 ## G07cha/MineflayerAutoAuth
 
@@ -1063,16 +1101,6 @@ Test Framework for AWS Lambda
 9 light themes for VSCode bundled in one theme
 
 [selfrefactor/niketa-theme](https://github.com/selfrefactor/niketa-theme) - 🌟 10
-
-## ChavaSobreyra/nuxt3-firebase-saas
-
-[ChavaSobreyra/nuxt3-firebase-saas](https://github.com/ChavaSobreyra/nuxt3-firebase-saas) - 🌟 9
-
-## appcelerator/cli-kit
-
-Everything you need to create awesome Node.js command line interfaces
-
-[appcelerator/cli-kit](https://github.com/appcelerator/cli-kit) - 🌟 9
 
 ## fernandopasik/generator-startmeup
 
@@ -1168,7 +1196,33 @@ A pnpm monorepo starter for mithril developers using typescript, rollup, esbuild
 
 ## theopensystemslab/map
 
+Web components for tasks related to addresses and planning permission in the UK
+
 [theopensystemslab/map](https://github.com/theopensystemslab/map) - 🌟 8
+
+## kellyselden/ember-cli-update-action
+
+Run ember-cli-update updates on CI
+
+[kellyselden/ember-cli-update-action](https://github.com/kellyselden/ember-cli-update-action) - 🌟 7
+
+## cem2ran/mainstream
+
+React-Native RSS Reader built on Expo.
+
+[cem2ran/mainstream](https://github.com/cem2ran/mainstream) - 🌟 7
+
+## Contrast-Security-OSS/NodeTestBenches
+
+A collection of intentionally vulnerable test bench applications for testing the Contrast Security Node Agent.
+
+[Contrast-Security-OSS/NodeTestBenches](https://github.com/Contrast-Security-OSS/NodeTestBenches) - 🌟 7
+
+## Wildlander-mod/Launcher
+
+A launcher for the Wildlander Skyrim Modlist
+
+[Wildlander-mod/Launcher](https://github.com/Wildlander-mod/Launcher) - 🌟 7
 
 ## blogfoster/eslint-config-blogfoster
 
@@ -1234,6 +1288,10 @@ Minimizes package setup and maintenance complexity, so you can focus on writing 
 
 [blackflux/js-gardener](https://github.com/blackflux/js-gardener) - 🌟 6
 
+## ExtropyIO/ExpertSolidityJuly
+
+[ExtropyIO/ExpertSolidityJuly](https://github.com/ExtropyIO/ExpertSolidityJuly) - 🌟 6
+
 ## saucelabs/appium-inspector-saucelabs
 
 [saucelabs/appium-inspector-saucelabs](https://github.com/saucelabs/appium-inspector-saucelabs) - 🌟 6
@@ -1290,9 +1348,11 @@ Vue + Tailwind Open Graph Image Builder
 
 [kalxd/drifloon](https://github.com/kalxd/drifloon) - 🌟 5
 
-## ExtropyIO/ExpertSolidityJuly
+## MetaMask/eslint-config
 
-[ExtropyIO/ExpertSolidityJuly](https://github.com/ExtropyIO/ExpertSolidityJuly) - 🌟 5
+Shareable MetaMask ESLint config
+
+[MetaMask/eslint-config](https://github.com/MetaMask/eslint-config) - 🌟 5
 
 ## AverageHelper/Gamgee
 
@@ -1392,12 +1452,6 @@ Web tool for Forbidden Lands
 
 [syradar/yxans-klagan](https://github.com/syradar/yxans-klagan) - 🌟 5
 
-## shshwtsuthar/Zero
-
-A set of Minecraft Bots to help you in game.
-
-[shshwtsuthar/Zero](https://github.com/shshwtsuthar/Zero) - 🌟 5
-
 ## sectsect/webpack-postcss
 
 webpack 5 - Babel - ESLint - Prettier - PostCSS - stylelint - ES Modules
@@ -1466,6 +1520,12 @@ A collection of example OpenAPI 3.x and Swagger 2.0 documents.
 
 [readmeio/oas-examples](https://github.com/readmeio/oas-examples) - 🌟 4
 
+## readmeio/httpsnippet
+
+HTTP Request snippet generator for many languages & libraries
+
+[readmeio/httpsnippet](https://github.com/readmeio/httpsnippet) - 🌟 4
+
 ## dotcore64/react-focus-onkeydown
 
 React higher order component for getting focus of a component when a key is pressed anywhere in the page
@@ -1514,6 +1574,12 @@ Minimalist Node.js client for programmatically spread betting with the IG API
 
 [chrisgitrepo/ig-trader](https://github.com/chrisgitrepo/ig-trader) - 🌟 3
 
+## torusresearch/casper-embed
+
+Embeds the Casper Wallet directly in your application via casper-embed. Exposes a Web3 Provider.
+
+[torusresearch/casper-embed](https://github.com/torusresearch/casper-embed) - 🌟 3
+
 ## godaddy/node-connect-qos
 
 Connect middleware that helps maintain a high quality of service during heavy traffic
@@ -1525,6 +1591,12 @@ Connect middleware that helps maintain a high quality of service during heavy tr
 Хелперы для функций в Yandex Cloud (Node.js)
 
 [vitalets/yandex-cloud-fn](https://github.com/vitalets/yandex-cloud-fn) - 🌟 3
+
+## davesag/traverse-folders
+
+Traverse nested folders and process each of the discovered files.
+
+[davesag/traverse-folders](https://github.com/davesag/traverse-folders) - 🌟 3
 
 ## evelynhathaway/eslint-plugin-evelyn
 
@@ -1606,21 +1678,15 @@ Self host blog system for React dev ⚛️
 
 [laststance/nsx](https://github.com/laststance/nsx) - 🌟 3
 
+## thisisarchimedes/Archimedes_Finance
+
+[thisisarchimedes/Archimedes_Finance](https://github.com/thisisarchimedes/Archimedes_Finance) - 🌟 3
+
 ## readmeio/openapi-parser
 
 Swagger 2.0 and OpenAPI 3.x parser/validator
 
 [readmeio/openapi-parser](https://github.com/readmeio/openapi-parser) - 🌟 3
-
-## readmeio/httpsnippet
-
-HTTP Request snippet generator for many languages & libraries
-
-[readmeio/httpsnippet](https://github.com/readmeio/httpsnippet) - 🌟 3
-
-## topicquests/sensecraft
-
-[topicquests/sensecraft](https://github.com/topicquests/sensecraft) - 🌟 3
 
 ## torusresearch/fetch-node-details
 
@@ -1681,25 +1747,3 @@ Freezer management & sample tracking system
 Interactive board with use-flexible-undo
 
 [philipmendels/overboard](https://github.com/philipmendels/overboard) - 🌟 3
-
-## uragecz/json-to-react-form
-
-[uragecz/json-to-react-form](https://github.com/uragecz/json-to-react-form) - 🌟 2
-
-## kevinfiol/etto
-
-tiny JavaScript autocomplete & select component
-
-[kevinfiol/etto](https://github.com/kevinfiol/etto) - 🌟 2
-
-## EngrGord/Decentralized-Chat
-
-A chat Dapp built on Lukso network.
-
-[EngrGord/Decentralized-Chat](https://github.com/EngrGord/Decentralized-Chat) - 🌟 2
-
-## samirsayyad/ep_profile_modal
-
-Profile modal
-
-[samirsayyad/ep_profile_modal](https://github.com/samirsayyad/ep_profile_modal) - 🌟 2

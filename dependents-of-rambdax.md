@@ -16,7 +16,7 @@ Extended version of Rambda
 
 Generate a TOC of any page anywhere to quickly access the page's content.
 
-[sethyuan/logseq-plugin-tocgen](https://github.com/sethyuan/logseq-plugin-tocgen) - 🌟 61
+[sethyuan/logseq-plugin-tocgen](https://github.com/sethyuan/logseq-plugin-tocgen) - 🌟 62
 
 ## sethyuan/logseq-plugin-wrap
 
