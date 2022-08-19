@@ -11,7 +11,7 @@
 * [Rough](https://github.com/selfrefactor/popular-dependents-lists/blob/master/dependents-of-rough.md) - list of 69 repos
 * [Rxjs](https://github.com/selfrefactor/popular-dependents-lists/blob/master/dependents-of-rxjs.md) - list of 219 repos
 * [Vitest](https://github.com/selfrefactor/popular-dependents-lists/blob/master/dependents-of-vitest.md) - list of 399 repos
-* [Kefir](https://github.com/selfrefactor/popular-dependents-lists/blob/master/dependents-of-kefir.md) - list of 16 repos
+* [Kefir](https://github.com/selfrefactor/popular-dependents-lists/blob/master/dependents-of-kefir.md) - list of 57 repos
 * [Nest](https://github.com/selfrefactor/popular-dependents-lists/blob/master/dependents-of-nest.md) - list of 94 repos
 * [Puppeteer](https://github.com/selfrefactor/popular-dependents-lists/blob/master/dependents-of-puppeteer.md) - list of 80 repos
 * [Seneca](https://github.com/selfrefactor/popular-dependents-lists/blob/master/dependents-of-seneca.md) - list of 11 repos
@@ -382,35 +382,35 @@ Vue progressive image loading plugin
 
 ## Kefir
 
-### StreakYC/react-menu-list
+### rpldy/react-uploady
 
-React dropdown menu components
+Modern file uploading - components & hooks for React
 
-[StreakYC/react-menu-list](https://github.com/StreakYC/react-menu-list) - 🌟 78
+[rpldy/react-uploady](https://github.com/rpldy/react-uploady) - 🌟 671
 
-### StreakYC/react-float-anchor
+### gajus/youtube-player
 
-React component for positioning an element aligned to another
+YouTube iframe API abstraction.
 
-[StreakYC/react-float-anchor](https://github.com/StreakYC/react-float-anchor) - 🌟 48
+[gajus/youtube-player](https://github.com/gajus/youtube-player) - 🌟 309
 
-### chrisguttandin/subscribable-things
+### metrico/qryn
 
-A collection of reactive wrappers for various browser APIs.
+qryn is a polyglot, high-performance observability stack for ClickHouse (formerly cLoki). Ingest and analyze logs, metrics and traces from any agent supporting Loki, Prometheus, OTLP/Tempo, Elastic, InfluxDB and many more!
 
-[chrisguttandin/subscribable-things](https://github.com/chrisguttandin/subscribable-things) - 🌟 36
+[metrico/qryn](https://github.com/metrico/qryn) - 🌟 294
 
-### ElrondDevGuild/nextjs-dapp-template
+### atlassian-labs/react-resource-router
 
-Open source Dapp template for the Elrond blockchain.
+Configuration driven routing solution for React SPAs that manages route matching, data fetching and progressive rendering
 
-[ElrondDevGuild/nextjs-dapp-template](https://github.com/ElrondDevGuild/nextjs-dapp-template) - 🌟 18
+[atlassian-labs/react-resource-router](https://github.com/atlassian-labs/react-resource-router) - 🌟 181
 
-### PeterKottas/guestbell-forms
+### albertogasparin/react-magnetic-di
 
-Beautiful react forms with built-in validation 
+Dependency injection and replacement for React components and hooks
 
-[PeterKottas/guestbell-forms](https://github.com/PeterKottas/guestbell-forms) - 🌟 12
+[albertogasparin/react-magnetic-di](https://github.com/albertogasparin/react-magnetic-di) - 🌟 105
 
 ---
 
