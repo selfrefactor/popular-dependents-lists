@@ -16,13 +16,43 @@ serverless plugin for appsync
 
 Bootstrap components for Plotly Dash
 
-[facultyai/dash-bootstrap-components](https://github.com/facultyai/dash-bootstrap-components) - 🌟 882
+[facultyai/dash-bootstrap-components](https://github.com/facultyai/dash-bootstrap-components) - 🌟 885
+
+## planttheidea/moize
+
+The consistently-fast, complete memoization solution for JS
+
+[planttheidea/moize](https://github.com/planttheidea/moize) - 🌟 763
+
+## aknuds1/html-to-react
+
+A lightweight library that converts raw HTML to a React DOM structure.
+
+[aknuds1/html-to-react](https://github.com/aknuds1/html-to-react) - 🌟 702
 
 ## vform666/variant-form
 
 A powerful form designer for Vue.
 
-[vform666/variant-form](https://github.com/vform666/variant-form) - 🌟 670
+[vform666/variant-form](https://github.com/vform666/variant-form) - 🌟 682
+
+## char0n/ramda-adjunct
+
+Ramda Adjunct is the most popular and most comprehensive set of functional utilities for use with Ramda, providing a variety of useful, well tested functions with excellent documentation.
+
+[char0n/ramda-adjunct](https://github.com/char0n/ramda-adjunct) - 🌟 642
+
+## TryGhost/Admin
+
+Ghost's admin client
+
+[TryGhost/Admin](https://github.com/TryGhost/Admin) - 🌟 618
+
+## infinitered/solidarity
+
+Solidarity is an environment checker for project dependencies across multiple machines.
+
+[infinitered/solidarity](https://github.com/infinitered/solidarity) - 🌟 592
 
 ## appfeel/node-pushnotifications
 
@@ -30,17 +60,23 @@ Push notifications for GCM, APNS, MPNS, AMZ (automatic detection from device tok
 
 [appfeel/node-pushnotifications](https://github.com/appfeel/node-pushnotifications) - 🌟 498
 
-## authorizerdev/authorizer
+## toystars/react-native-multiple-select
 
-Your data, your control. Fully open source, authentication and authorization. No lock-ins.  Deployment in Railway.app | Heroku in 120 seconds || Spin a docker image as a micro-service in your infra. Built in login page and Admin panel out of the box.
+Simple multi-select component for react-native
 
-[authorizerdev/authorizer](https://github.com/authorizerdev/authorizer) - 🌟 467
+[toystars/react-native-multiple-select](https://github.com/toystars/react-native-multiple-select) - 🌟 498
 
-## plotly/dash-cytoscape
+## Mastermindzh/react-cookie-consent
 
-Interactive network visualization in Python and Dash, powered by Cytoscape.js
+A small, simple and customizable cookie consent bar for use in React applications.
 
-[plotly/dash-cytoscape](https://github.com/plotly/dash-cytoscape) - 🌟 457
+[Mastermindzh/react-cookie-consent](https://github.com/Mastermindzh/react-cookie-consent) - 🌟 448
+
+## plotly/dash-bio
+
+Open-source bioinformatics components for Dash
+
+[plotly/dash-bio](https://github.com/plotly/dash-bio) - 🌟 438
 
 ## scaccogatto/vue-waypoint
 
@@ -48,11 +84,11 @@ trigger functions and events based on the element position on the screen
 
 [scaccogatto/vue-waypoint](https://github.com/scaccogatto/vue-waypoint) - 🌟 438
 
-## plotly/dash-bio
+## XiaoMi/hiui
 
-Open-source bioinformatics components for Dash
+HIUI is a solution that is adequate for the fomulation and implementation of interaction and UI design standard for front, middle and backend.
 
-[plotly/dash-bio](https://github.com/plotly/dash-bio) - 🌟 437
+[XiaoMi/hiui](https://github.com/XiaoMi/hiui) - 🌟 433
 
 ## webpack-contrib/stylelint-webpack-plugin
 
@@ -64,25 +100,61 @@ A Stylelint plugin for webpack
 
 :white_check_mark: Tasks app for Nextcloud
 
-[nextcloud/tasks](https://github.com/nextcloud/tasks) - 🌟 424
+[nextcloud/tasks](https://github.com/nextcloud/tasks) - 🌟 426
 
-## vuerd/vuerd
+## Developer-DAO/developerdao.com
 
-Entity-Relationship Diagram Editor
+A community of builders who believe in collective ownership of the internet
 
-[vuerd/vuerd](https://github.com/vuerd/vuerd) - 🌟 422
+[Developer-DAO/developerdao.com](https://github.com/Developer-DAO/developerdao.com) - 🌟 411
 
 ## browserslist/caniuse-lite
 
 A smaller version of caniuse-db, with only the essentials!
 
-[browserslist/caniuse-lite](https://github.com/browserslist/caniuse-lite) - 🌟 406
+[browserslist/caniuse-lite](https://github.com/browserslist/caniuse-lite) - 🌟 410
+
+## foxdonut/meiosis
+
+meiosis
+
+[foxdonut/meiosis](https://github.com/foxdonut/meiosis) - 🌟 410
+
+## jamesmcnamara/shades
+
+A lodash-inspired lens-like library for Javascript
+
+[jamesmcnamara/shades](https://github.com/jamesmcnamara/shades) - 🌟 396
+
+## onflow/kitty-items
+
+Kitty Items: CryptoKitties Sample App
+
+[onflow/kitty-items](https://github.com/onflow/kitty-items) - 🌟 394
+
+## netlify-templates/one-click-hugo-cms
+
+Hugo template with Netlify CMS
+
+[netlify-templates/one-click-hugo-cms](https://github.com/netlify-templates/one-click-hugo-cms) - 🌟 392
 
 ## pmowrer/semantic-release-monorepo
 
 Apply semantic-release's automatic publishing to a monorepo.
 
-[pmowrer/semantic-release-monorepo](https://github.com/pmowrer/semantic-release-monorepo) - 🌟 372
+[pmowrer/semantic-release-monorepo](https://github.com/pmowrer/semantic-release-monorepo) - 🌟 373
+
+## garbles/flag
+
+Best-in-class interface for working with feature flags in TypeScript-based React applications
+
+[garbles/flag](https://github.com/garbles/flag) - 🌟 366
+
+## dennisreimann/uiengine
+
+Workbench for UI-driven development
+
+[dennisreimann/uiengine](https://github.com/dennisreimann/uiengine) - 🌟 357
 
 ## davidjbradshaw/eslint-config-auto
 
@@ -90,11 +162,23 @@ Automatically configure ESLint based on project dependencies
 
 [davidjbradshaw/eslint-config-auto](https://github.com/davidjbradshaw/eslint-config-auto) - 🌟 347
 
+## benji6/virtual-audio-graph
+
+:notes: Library for declaratively manipulating the Web Audio API
+
+[benji6/virtual-audio-graph](https://github.com/benji6/virtual-audio-graph) - 🌟 335
+
+## svelteuidev/svelteui
+
+SvelteUI Monorepo
+
+[svelteuidev/svelteui](https://github.com/svelteuidev/svelteui) - 🌟 333
+
 ## testing-library/jest-native
 
 🦅 Custom jest matchers to test the state of React Native
 
-[testing-library/jest-native](https://github.com/testing-library/jest-native) - 🌟 313
+[testing-library/jest-native](https://github.com/testing-library/jest-native) - 🌟 316
 
 ## Cody2333/koa-swagger-decorator
 
@@ -102,11 +186,23 @@ using decorator to automatically generate swagger doc for koa-router
 
 [Cody2333/koa-swagger-decorator](https://github.com/Cody2333/koa-swagger-decorator) - 🌟 312
 
+## megawac/babel-plugin-ramda
+
+Easy :ram: modular builds
+
+[megawac/babel-plugin-ramda](https://github.com/megawac/babel-plugin-ramda) - 🌟 311
+
 ## gajus/eslint-config-canonical
 
 The most comprehensive ES code style guide.
 
 [gajus/eslint-config-canonical](https://github.com/gajus/eslint-config-canonical) - 🌟 309
+
+## thedirtyfew/dash-extensions
+
+The dash-extensions package is a collection of utility functions, syntax extensions, and Dash components that aim to improve the Dash development experience
+
+[thedirtyfew/dash-extensions](https://github.com/thedirtyfew/dash-extensions) - 🌟 290
 
 ## kristiandupont/kanel
 
@@ -114,11 +210,9 @@ Generate Typescript types from Postgres
 
 [kristiandupont/kanel](https://github.com/kristiandupont/kanel) - 🌟 289
 
-## thedirtyfew/dash-extensions
+## dvargas92495/roamjs-workbench
 
-The dash-extensions package is a collection of utility functions, syntax extensions, and Dash components that aim to improve the Dash development experience
-
-[thedirtyfew/dash-extensions](https://github.com/thedirtyfew/dash-extensions) - 🌟 288
+[dvargas92495/roamjs-workbench](https://github.com/dvargas92495/roamjs-workbench) - 🌟 286
 
 ## floydspace/serverless-esbuild
 
@@ -126,11 +220,29 @@ The dash-extensions package is a collection of utility functions, syntax extensi
 
 [floydspace/serverless-esbuild](https://github.com/floydspace/serverless-esbuild) - 🌟 284
 
+## puppeteer/replay
+
+Library that provides an API to replay and stringify recordings created using Chrome DevTools Recorder
+
+[puppeteer/replay](https://github.com/puppeteer/replay) - 🌟 273
+
+## lo1tuma/eslint-plugin-mocha
+
+ESLint rules for mocha
+
+[lo1tuma/eslint-plugin-mocha](https://github.com/lo1tuma/eslint-plugin-mocha) - 🌟 265
+
+## netlify-templates/nextjs-blog-theme
+
+A customizable Next.js and Tailwind blog starter. Designed by the Bejamas agency.
+
+[netlify-templates/nextjs-blog-theme](https://github.com/netlify-templates/nextjs-blog-theme) - 🌟 256
+
 ## egoist/hanabi
 
 :boom: Highlight any code, in a colorful way. (seriously 700 bytes)
 
-[egoist/hanabi](https://github.com/egoist/hanabi) - 🌟 236
+[egoist/hanabi](https://github.com/egoist/hanabi) - 🌟 237
 
 ## TotalTechGeek/pictoprime
 
@@ -142,7 +254,7 @@ Generate prime numbers from pictures!
 
 Node.js bindings to TDLib.
 
-[Bannerets/tdl](https://github.com/Bannerets/tdl) - 🌟 229
+[Bannerets/tdl](https://github.com/Bannerets/tdl) - 🌟 231
 
 ## shashkovdanil/clean-publish
 
@@ -156,23 +268,23 @@ mongodb version management
 
 [aheckmann/m](https://github.com/aheckmann/m) - 🌟 225
 
-## nickslevine/zebras
+## sneas/img-comparison-slider
 
-Data analysis library for JavaScript built with Ramda
+Image comparison slider. Compare images before and after. Supports React, Vue, Angular.
 
-[nickslevine/zebras](https://github.com/nickslevine/zebras) - 🌟 213
-
-## nanoutils/nanoutils
-
-🌊 Tiniest FP-friendly JavaScript utils library
-
-[nanoutils/nanoutils](https://github.com/nanoutils/nanoutils) - 🌟 211
+[sneas/img-comparison-slider](https://github.com/sneas/img-comparison-slider) - 🌟 215
 
 ## a-synchronous/rubico
 
 [a]synchronous functional programming
 
-[a-synchronous/rubico](https://github.com/a-synchronous/rubico) - 🌟 208
+[a-synchronous/rubico](https://github.com/a-synchronous/rubico) - 🌟 209
+
+## selfrefactor/rambdax
+
+Extended version of Rambda 
+
+[selfrefactor/rambdax](https://github.com/selfrefactor/rambdax) - 🌟 189
 
 ## betagouv/mon-entreprise
 
@@ -180,11 +292,17 @@ L'assistant officiel des entrepreneurs
 
 [betagouv/mon-entreprise](https://github.com/betagouv/mon-entreprise) - 🌟 183
 
+## ckeditor/ckeditor5-angular
+
+Official CKEditor 5 Angular 5+ component.
+
+[ckeditor/ckeditor5-angular](https://github.com/ckeditor/ckeditor5-angular) - 🌟 179
+
 ## emazzotta/lighthouse-badges
 
 🚦 Generate badges (shields.io) based on Lighthouse performance.
 
-[emazzotta/lighthouse-badges](https://github.com/emazzotta/lighthouse-badges) - 🌟 177
+[emazzotta/lighthouse-badges](https://github.com/emazzotta/lighthouse-badges) - 🌟 178
 
 ## kristiandupont/schemalint
 
@@ -192,11 +310,23 @@ Lint database schemas
 
 [kristiandupont/schemalint](https://github.com/kristiandupont/schemalint) - 🌟 175
 
+## Izhaki/nodemon-webpack-plugin
+
+A webpack plugin that uses Nodemon to start and reload the server.
+
+[Izhaki/nodemon-webpack-plugin](https://github.com/Izhaki/nodemon-webpack-plugin) - 🌟 173
+
 ## planttheidea/micro-memoize
 
 A tiny, crazy fast memoization library for the 95% use-case
 
 [planttheidea/micro-memoize](https://github.com/planttheidea/micro-memoize) - 🌟 167
+
+## ToX82/cookie-bar
+
+cookieBAR is a free & easy solution to the EU cookie law.
+
+[ToX82/cookie-bar](https://github.com/ToX82/cookie-bar) - 🌟 164
 
 ## bahmutov/cypress-failed-log
 
@@ -208,7 +338,7 @@ Saves the Cypress test command log as a JSON file if a test fails
 
 Easy Minimal GraphQL client integration with Nuxt.js.
 
-[Gomah/nuxt-graphql-request](https://github.com/Gomah/nuxt-graphql-request) - 🌟 160
+[Gomah/nuxt-graphql-request](https://github.com/Gomah/nuxt-graphql-request) - 🌟 161
 
 ## anywhichway/nano-memoize
 
@@ -220,7 +350,19 @@ Faster than fast, smaller than micro ... a nano speed and size (780 Brotili byte
 
 A Typescript library to help you get an API server up and running with I/O schema validation and custom middlewares in minutes.
 
-[RobinTail/express-zod-api](https://github.com/RobinTail/express-zod-api) - 🌟 148
+[RobinTail/express-zod-api](https://github.com/RobinTail/express-zod-api) - 🌟 149
+
+## thanhtunguet/grapesjs-react
+
+A React wrapper for GrapesJS library
+
+[thanhtunguet/grapesjs-react](https://github.com/thanhtunguet/grapesjs-react) - 🌟 149
+
+## fedspendingtransparency/usaspending-website
+
+Web application for U.S. federal spending data
+
+[fedspendingtransparency/usaspending-website](https://github.com/fedspendingtransparency/usaspending-website) - 🌟 149
 
 ## NewDadaFE/react-impression
 
@@ -228,27 +370,45 @@ A Typescript library to help you get an API server up and running with I/O schem
 
 [NewDadaFE/react-impression](https://github.com/NewDadaFE/react-impression) - 🌟 147
 
+## 5k-mirrors/poe-live-search-manager
+
+Desktop tool for Path of Exile for managing live item searches and making instant offers without leaving the game.
+
+[5k-mirrors/poe-live-search-manager](https://github.com/5k-mirrors/poe-live-search-manager) - 🌟 147
+
+## SAP/fundamental-styles
+
+SAP Fiori, theme-able, accessible component library for building SAP user interfaces with any web technology.
+
+[SAP/fundamental-styles](https://github.com/SAP/fundamental-styles) - 🌟 144
+
 ## MasonLe2497/curved-bottom-navigation-bar
 
 [MasonLe2497/curved-bottom-navigation-bar](https://github.com/MasonLe2497/curved-bottom-navigation-bar) - 🌟 142
 
-## hygraph/gatsby-source-graphcms
+## makimenko/angular-template-for-threejs
 
-The official Gatsby source plugin for GraphCMS projects
+Angular Template For Three.js
 
-[hygraph/gatsby-source-graphcms](https://github.com/hygraph/gatsby-source-graphcms) - 🌟 140
+[makimenko/angular-template-for-threejs](https://github.com/makimenko/angular-template-for-threejs) - 🌟 138
 
 ## rocwang/vue-virtual-scroll-grid
 
 A Vue 3 component that can render a list with 1000+ items as a grid in a performant way.
 
-[rocwang/vue-virtual-scroll-grid](https://github.com/rocwang/vue-virtual-scroll-grid) - 🌟 134
+[rocwang/vue-virtual-scroll-grid](https://github.com/rocwang/vue-virtual-scroll-grid) - 🌟 138
 
-## plotly/dash-daq
+## pex-gl/pex-context
 
-Control components for Dash
+Modern WebGL state wrapper for PEX: allocate GPU resources (textures, buffers), setup state pipelines and passes, and combine them into commands.
 
-[plotly/dash-daq](https://github.com/plotly/dash-daq) - 🌟 129
+[pex-gl/pex-context](https://github.com/pex-gl/pex-context) - 🌟 135
+
+## mithi/epic-react-exercises
+
+Practical React exercises with detailed solutions.
+
+[mithi/epic-react-exercises](https://github.com/mithi/epic-react-exercises) - 🌟 134
 
 ## alexa/ask-cli
 
@@ -262,11 +422,29 @@ Client-side buttons to run a single test or skip it for Cypress test runner
 
 [bahmutov/cypress-skip-and-only-ui](https://github.com/bahmutov/cypress-skip-and-only-ui) - 🌟 125
 
+## netlify-templates/kpop-stack
+
+Create a Remix app with Netlify, Tailwind, TypeScript and more!
+
+[netlify-templates/kpop-stack](https://github.com/netlify-templates/kpop-stack) - 🌟 123
+
+## getezy/ezy
+
+Desktop gRPC client.
+
+[getezy/ezy](https://github.com/getezy/ezy) - 🌟 122
+
 ## jacobworrel/react-windowed-select
 
 An integration of react-window with react-select to efficiently render large lists.
 
-[jacobworrel/react-windowed-select](https://github.com/jacobworrel/react-windowed-select) - 🌟 116
+[jacobworrel/react-windowed-select](https://github.com/jacobworrel/react-windowed-select) - 🌟 117
+
+## mymai91/react-native-toggle-element
+
+Switch toggle component for React Native. You can add title, icon, modify component for toggle button.
+
+[mymai91/react-native-toggle-element](https://github.com/mymai91/react-native-toggle-element) - 🌟 115
 
 ## davidcalhoun/tle.js
 
@@ -280,29 +458,53 @@ A csv file import button for react-admin
 
 [benwinding/react-admin-import-csv](https://github.com/benwinding/react-admin-import-csv) - 🌟 108
 
-## decentraland/decentraland-dapps
-
-🛠 Common modules for dApps
-
-[decentraland/decentraland-dapps](https://github.com/decentraland/decentraland-dapps) - 🌟 99
-
 ## AppiumTestDistribution/appium-device-farm
 
 This is an Appium 2.0 plugin designed to manage and create driver sessions on available devices.
 
-[AppiumTestDistribution/appium-device-farm](https://github.com/AppiumTestDistribution/appium-device-farm) - 🌟 96
+[AppiumTestDistribution/appium-device-farm](https://github.com/AppiumTestDistribution/appium-device-farm) - 🌟 98
 
-## zyxd/svelte-store-router
+## decentraland/decentraland-dapps
 
-Store-based router for Svelte
+🛠 Common modules for dApps
 
-[zyxd/svelte-store-router](https://github.com/zyxd/svelte-store-router) - 🌟 92
+[decentraland/decentraland-dapps](https://github.com/decentraland/decentraland-dapps) - 🌟 98
+
+## benji6/imlazy
+
+😴 Functional programming with lazy immutable iterables
+
+[benji6/imlazy](https://github.com/benji6/imlazy) - 🌟 98
+
+## mapbox/osmcha-frontend
+
+ Frontend for the osmcha-django REST API
+
+[mapbox/osmcha-frontend](https://github.com/mapbox/osmcha-frontend) - 🌟 97
+
+## infinitered/reactotron-react-native
+
+Reactotron's react-native client.
+
+[infinitered/reactotron-react-native](https://github.com/infinitered/reactotron-react-native) - 🌟 94
+
+## craftcms/redactor
+
+Edit rich text content in Craft CMS using Redactor by Imperavi.
+
+[craftcms/redactor](https://github.com/craftcms/redactor) - 🌟 89
+
+## altangent/node-lightning
+
+Lighting Network implemented in Node.js
+
+[altangent/node-lightning](https://github.com/altangent/node-lightning) - 🌟 88
 
 ## ghalex/vue3-charts
 
 Vue3-Charts is an SVG-based charting library that is very easy to use and highly customizable
 
-[ghalex/vue3-charts](https://github.com/ghalex/vue3-charts) - 🌟 86
+[ghalex/vue3-charts](https://github.com/ghalex/vue3-charts) - 🌟 87
 
 ## akheron/sqltyper
 
@@ -314,13 +516,31 @@ TypeScript types for raw PostgreSQL queries
 
 Dash + Antd = 😍
 
-[CNFeffery/feffery-antd-components](https://github.com/CNFeffery/feffery-antd-components) - 🌟 83
+[CNFeffery/feffery-antd-components](https://github.com/CNFeffery/feffery-antd-components) - 🌟 85
+
+## denali-design/denali-css
+
+Themeable CSS framework of Denali UI components
+
+[denali-design/denali-css](https://github.com/denali-design/denali-css) - 🌟 85
+
+## iboss-ptk/terrain
+
+Terra development environment for better smart contract development experience.
+
+[iboss-ptk/terrain](https://github.com/iboss-ptk/terrain) - 🌟 84
 
 ## rmrk-team/rmrk-tools
 
 Tools for the RMRK NFT standard on Kusama
 
 [rmrk-team/rmrk-tools](https://github.com/rmrk-team/rmrk-tools) - 🌟 80
+
+## longhorn/longhorn-ui
+
+Storage does not have to look ugly
+
+[longhorn/longhorn-ui](https://github.com/longhorn/longhorn-ui) - 🌟 80
 
 ## Luxcium/pop-n-lock-theme-vscode
 
@@ -338,7 +558,13 @@ Tools for the RMRK NFT standard on Kusama
 
 Simple implimentation of telegram API which can be used for testing telegram bots
 
-[jehy/telegram-test-api](https://github.com/jehy/telegram-test-api) - 🌟 68
+[jehy/telegram-test-api](https://github.com/jehy/telegram-test-api) - 🌟 69
+
+## alvarlagerlof/react-haze
+
+🌫 Easily show a fade at edges of lists to indicate scrollability
+
+[alvarlagerlof/react-haze](https://github.com/alvarlagerlof/react-haze) - 🌟 69
 
 ## tjoskar/gitmoji-commit-hook
 
@@ -351,12 +577,6 @@ Start the commit message with an applicable emoji
 A cool svg optimization tool that supports the svg standard
 
 [benboba/svg-slim](https://github.com/benboba/svg-slim) - 🌟 67
-
-## rosebox/rosebox
-
-CSS in Typescript
-
-[rosebox/rosebox](https://github.com/rosebox/rosebox) - 🌟 67
 
 ## betagouv/publicodes
 
@@ -376,11 +596,29 @@ a library for matching human-quality input to a list of potential matches using 
 
 [foray1010/didyoumean2](https://github.com/foray1010/didyoumean2) - 🌟 64
 
-## jhwohlgemuth/tomo-cli
+## lamassu/lamassu-server
 
-A friendly command line tool designed to help create sustainable software using web technology
+Part of the Lamassu Cryptomat platform
 
-[jhwohlgemuth/tomo-cli](https://github.com/jhwohlgemuth/tomo-cli) - 🌟 58
+[lamassu/lamassu-server](https://github.com/lamassu/lamassu-server) - 🌟 63
+
+## gajus/eslint-plugin-sql
+
+SQL linting rules for ESLint.
+
+[gajus/eslint-plugin-sql](https://github.com/gajus/eslint-plugin-sql) - 🌟 63
+
+## bahmutov/ban-sensitive-files
+
+Checks filenames to be committed against a library of filename rules to prevent sensitive files in Git
+
+[bahmutov/ban-sensitive-files](https://github.com/bahmutov/ban-sensitive-files) - 🌟 59
+
+## always-maap/TS-Collection
+
+💮 Algorithms and Data Structures for the modern web 
+
+[always-maap/TS-Collection](https://github.com/always-maap/TS-Collection) - 🌟 59
 
 ## ruanyl/reapex
 
@@ -388,11 +626,11 @@ Intuitive state management and data flow orchestration
 
 [ruanyl/reapex](https://github.com/ruanyl/reapex) - 🌟 58
 
-## d-kimuson/type-predicates-generator
+## serverless/serverless-tencent
 
-generating predicates and assertion function by type definitions.
+⚡️  🐧   Serverless Tencent CLI 及中文讨论社区
 
-[d-kimuson/type-predicates-generator](https://github.com/d-kimuson/type-predicates-generator) - 🌟 54
+[serverless/serverless-tencent](https://github.com/serverless/serverless-tencent) - 🌟 55
 
 ## rhberro/the-fake-backend
 
@@ -400,11 +638,11 @@ Build a fake backend by providing the content of files or JavaScript objects thr
 
 [rhberro/the-fake-backend](https://github.com/rhberro/the-fake-backend) - 🌟 54
 
-## serverless/serverless-tencent
+## pmndrs/react-three-csg
 
-⚡️  🐧   Serverless Tencent CLI 及中文讨论社区
+🚧 Constructive solid geometry for React
 
-[serverless/serverless-tencent](https://github.com/serverless/serverless-tencent) - 🌟 54
+[pmndrs/react-three-csg](https://github.com/pmndrs/react-three-csg) - 🌟 54
 
 ## BboyAwey/admin-ui
 
@@ -422,11 +660,17 @@ Memcache Plus - Better memcache for node
 
 [victorquinn/memcache-plus](https://github.com/victorquinn/memcache-plus) - 🌟 51
 
-## ruanyl/dts-loader
+## tagoro9/fotingo
 
-webpack loader to collect .d.ts files and create entry file for webpack module federation exposes
+A CLI to ease the interaction between git, github and jira when working on tasks.
 
-[ruanyl/dts-loader](https://github.com/ruanyl/dts-loader) - 🌟 50
+[tagoro9/fotingo](https://github.com/tagoro9/fotingo) - 🌟 51
+
+## mwarger/tmdb-watchlist-prisma
+
+NX monorepo showing the TMDB Watchlist mobile app with Expo, tRPC, Next, and Prisma
+
+[mwarger/tmdb-watchlist-prisma](https://github.com/mwarger/tmdb-watchlist-prisma) - 🌟 51
 
 ## DecentralBankDAO/usn
 
@@ -440,17 +684,23 @@ A framework for musical composition. It allows creating custom music algorithms,
 
 [ricardomatias/playa](https://github.com/ricardomatias/playa) - 🌟 47
 
-## ubccapico/node-canvas-api
+## ChatKitty/chatkitty-js
 
-Access the Canvas API using Node.js. 54 functions (and counting)! Pull requests are welcome and appreciated.
+Build chat in minutes with ChatKitty's real-time messaging framework.
 
-[ubccapico/node-canvas-api](https://github.com/ubccapico/node-canvas-api) - 🌟 46
+[ChatKitty/chatkitty-js](https://github.com/ChatKitty/chatkitty-js) - 🌟 46
 
-## bahmutov/mocked-env
+## freizl/js-vd
 
-Easy way to mock process.env during BDD testing
+JavaScript source code dependency visualization
 
-[bahmutov/mocked-env](https://github.com/bahmutov/mocked-env) - 🌟 41
+[freizl/js-vd](https://github.com/freizl/js-vd) - 🌟 42
+
+## snoopForms/snoopforms-react
+
+React Library with form- & survey-elements for the snoopForms platform
+
+[snoopForms/snoopforms-react](https://github.com/snoopForms/snoopforms-react) - 🌟 42
 
 ## davidjbradshaw/eslint-config-adjunct
 
@@ -476,374 +726,20 @@ A simple, serializable sum-type format
 
 [JAForbes/sum-type](https://github.com/JAForbes/sum-type) - 🌟 39
 
-## brave/ethereum-remote-client
-
-Integrated customization of MetaMask for use in Brave
-
-[brave/ethereum-remote-client](https://github.com/brave/ethereum-remote-client) - 🌟 39
-
 ## binjospookie/spacing-helper
 
 A tiny (117 bytes) and blazing fast standalone helper for creating consistent spacing between the elements of your UI
 
-[binjospookie/spacing-helper](https://github.com/binjospookie/spacing-helper) - 🌟 38
+[binjospookie/spacing-helper](https://github.com/binjospookie/spacing-helper) - 🌟 40
 
-## newrelic/serverless-newrelic-lambda-layers
+## maptalks/maptalks.heatmap
 
-A Serverless plugin to install New Relic's AWS Lambda layers without requiring a code change.
+A heatmap layer plugin for maptalks.js
 
-[newrelic/serverless-newrelic-lambda-layers](https://github.com/newrelic/serverless-newrelic-lambda-layers) - 🌟 37
+[maptalks/maptalks.heatmap](https://github.com/maptalks/maptalks.heatmap) - 🌟 39
 
-## paperhive/fefe
+## DTStack/dt-react-component
 
-Validate, sanitize and transform values with proper TypeScript types and zero dependencies.
+React UI component library based on antd package
 
-[paperhive/fefe](https://github.com/paperhive/fefe) - 🌟 37
-
-## prismicio/prismic-cli
-
-Prismic command line tool
-
-[prismicio/prismic-cli](https://github.com/prismicio/prismic-cli) - 🌟 35
-
-## akito0107/favalid
-
-make your favorite validators.
-
-[akito0107/favalid](https://github.com/akito0107/favalid) - 🌟 34
-
-## mermaidjs/ariel-diagrams
-
-Create diagrams from text in a similar manner as markdown
-
-[mermaidjs/ariel-diagrams](https://github.com/mermaidjs/ariel-diagrams) - 🌟 32
-
-## char0n/http-request-in-editor
-
-Reference implementation of HTTP Request in Editor Specification https://github.com/JetBrains/http-request-in-editor-spec
-
-[char0n/http-request-in-editor](https://github.com/char0n/http-request-in-editor) - 🌟 31
-
-## netdata/netdata-ui
-
-netdata-uikit
-
-[netdata/netdata-ui](https://github.com/netdata/netdata-ui) - 🌟 30
-
-## HichamELBSI/react-native-body-highlighter
-
-react-native-body-highlighter 💪
-
-[HichamELBSI/react-native-body-highlighter](https://github.com/HichamELBSI/react-native-body-highlighter) - 🌟 30
-
-## ludicroushq/light
-
-The Node Framework for the Next Generation.
-
-[ludicroushq/light](https://github.com/ludicroushq/light) - 🌟 29
-
-## semmel/on-screen-keyboard-detector
-
-detects the presence of the on-screen software keyboard on touch-enabled browsers (Chrome on Android, Safari on iOS)
-
-[semmel/on-screen-keyboard-detector](https://github.com/semmel/on-screen-keyboard-detector) - 🌟 28
-
-## bericp1/netlify-cms-oauth-provider-node
-
-A stateless external OAuth provider for netlify-cms with built-in support for Vercel serverless functions
-
-[bericp1/netlify-cms-oauth-provider-node](https://github.com/bericp1/netlify-cms-oauth-provider-node) - 🌟 28
-
-## Grohden/react-native-cli-bump-version
-
-A simple react native cli plugin to help you with version bumps
-
-[Grohden/react-native-cli-bump-version](https://github.com/Grohden/react-native-cli-bump-version) - 🌟 27
-
-## nexe/resolve-dependencies
-
-Given an entrypoint, get all of the dependencies connected to it.
-
-[nexe/resolve-dependencies](https://github.com/nexe/resolve-dependencies) - 🌟 27
-
-## zdhxiong/mdclub-admin
-
-mdclub 的后台管理界面
-
-[zdhxiong/mdclub-admin](https://github.com/zdhxiong/mdclub-admin) - 🌟 25
-
-## lundegaard/lundium
-
-React UI library for fast web development.
-
-[lundegaard/lundium](https://github.com/lundegaard/lundium) - 🌟 24
-
-## neuronetio/deep-state-observer
-
-State library for high performance applications.
-
-[neuronetio/deep-state-observer](https://github.com/neuronetio/deep-state-observer) - 🌟 24
-
-## nginformatica/flipper-ui
-
-React UI toolkit for the web.
-
-[nginformatica/flipper-ui](https://github.com/nginformatica/flipper-ui) - 🌟 23
-
-## odex21/vf-modal
-
-[odex21/vf-modal](https://github.com/odex21/vf-modal) - 🌟 22
-
-## jolocom/jolocom-sdk
-
-A tool kit for integration with SSI
-
-[jolocom/jolocom-sdk](https://github.com/jolocom/jolocom-sdk) - 🌟 22
-
-## mili-project-manager/mili
-
-Team technology management tool
-
-[mili-project-manager/mili](https://github.com/mili-project-manager/mili) - 🌟 22
-
-## tylerlong/subx
-
-SubX: Subject X, next generation state container
-
-[tylerlong/subx](https://github.com/tylerlong/subx) - 🌟 21
-
-## couzic/lenrix
-
-Type-safe, reactive, focusable redux store wrapper
-
-[couzic/lenrix](https://github.com/couzic/lenrix) - 🌟 21
-
-## upload-io/upload-image-plugin
-
-Resize, crop, and convert images on https://upload.io/
-
-[upload-io/upload-image-plugin](https://github.com/upload-io/upload-image-plugin) - 🌟 20
-
-## lundegaard/gatsby-theme-fast-ai
-
-⚛️ Workspace for developing apps with Fast AI gatsby theme
-
-[lundegaard/gatsby-theme-fast-ai](https://github.com/lundegaard/gatsby-theme-fast-ai) - 🌟 20
-
-## char0n/json-api-merge
-
-JSON:API specific algorithm for merging included resources into original data.
-
-[char0n/json-api-merge](https://github.com/char0n/json-api-merge) - 🌟 20
-
-## Attrash-Islam/react-wisteria
-
-Managing the State with the Golden Path
-
-[Attrash-Islam/react-wisteria](https://github.com/Attrash-Islam/react-wisteria) - 🌟 19
-
-## philipmendels/use-flexible-undo
-
-React hook that lets you use undomundo's branching undo/redo functionality independently of how you structure your application state.
-
-[philipmendels/use-flexible-undo](https://github.com/philipmendels/use-flexible-undo) - 🌟 18
-
-## kristiandupont/extract-pg-schema
-
-Extract schema from Postgres
-
-[kristiandupont/extract-pg-schema](https://github.com/kristiandupont/extract-pg-schema) - 🌟 18
-
-## Amri91/authomatic
-
-An authentication library that uses JWT for access and refresh tokens with sensible defaults.
-
-[Amri91/authomatic](https://github.com/Amri91/authomatic) - 🌟 18
-
-## ScreepsMods/screepsmod-admin-utils
-
-[ScreepsMods/screepsmod-admin-utils](https://github.com/ScreepsMods/screepsmod-admin-utils) - 🌟 17
-
-## Attrash-Islam/golden-path
-
-Golden Path
-
-[Attrash-Islam/golden-path](https://github.com/Attrash-Islam/golden-path) - 🌟 17
-
-## a-tarasyuk/tag
-
-Library for creating DOM elements
-
-[a-tarasyuk/tag](https://github.com/a-tarasyuk/tag) - 🌟 17
-
-## TAIT-Towers/epicor-erp-api
-
-Epicor ERP API Wrapper
-
-[TAIT-Towers/epicor-erp-api](https://github.com/TAIT-Towers/epicor-erp-api) - 🌟 17
-
-## tarsinzer/monoreact
-
-📦 React workspaces implementation
-
-[tarsinzer/monoreact](https://github.com/tarsinzer/monoreact) - 🌟 16
-
-## darky/rocket-pipes
-
-Powerful pipes for TypeScript, that chain Promise and ADT for you 🚌   ->  ⛰️   ->  🚠   ->  🏂  -> 🚀
-
-[darky/rocket-pipes](https://github.com/darky/rocket-pipes) - 🌟 16
-
-## prismicio/prismic-richtext
-
-A parser and serializer for Prismic's Rich Text format
-
-[prismicio/prismic-richtext](https://github.com/prismicio/prismic-richtext) - 🌟 16
-
-## sQVe/30s
-
-A command-line application for 30 seconds of code snippets
-
-[sQVe/30s](https://github.com/sQVe/30s) - 🌟 15
-
-## minhnhut/rapid-downloader
-
-Lighweight, ez to use accelerated downloader for Node.js enviroment. Download target file, by using muliple non-blocking connections.
-
-[minhnhut/rapid-downloader](https://github.com/minhnhut/rapid-downloader) - 🌟 15
-
-## foray1010/ignore-sync
-
-a CLI tool to build and sync .*ignore files across files and repositories
-
-[foray1010/ignore-sync](https://github.com/foray1010/ignore-sync) - 🌟 15
-
-## richardcrng/riduce
-
-Get rid of your reducer boilerplate! Zero hassle state management that's typed, flexible and scalable.
-
-[richardcrng/riduce](https://github.com/richardcrng/riduce) - 🌟 14
-
-## danielwii/asuna-node-server
-
-node server for asuna-admin
-
-[danielwii/asuna-node-server](https://github.com/danielwii/asuna-node-server) - 🌟 14
-
-## codesupport/website-frontend
-
-The frontend for the CodeSupport website.
-
-[codesupport/website-frontend](https://github.com/codesupport/website-frontend) - 🌟 13
-
-## designtesbrot/moleculer-minio
-
-💾A moleculer service mixin for minio and S3 💾
-
-[designtesbrot/moleculer-minio](https://github.com/designtesbrot/moleculer-minio) - 🌟 13
-
-## danielwii/asuna-admin
-
-一款契约优先的基于 React 的后台管理框架，隔离了服务端实现，可通过适配器适配不同的服务端。
-
-[danielwii/asuna-admin](https://github.com/danielwii/asuna-admin) - 🌟 13
-
-## jianglin-wu/intl-helper-cli
-
-[jianglin-wu/intl-helper-cli](https://github.com/jianglin-wu/intl-helper-cli) - 🌟 12
-
-## betagouv/nexauth
-
-A dead simple JWT-based authentication library for Next.js framework.
-
-[betagouv/nexauth](https://github.com/betagouv/nexauth) - 🌟 12
-
-## philihp/fast-shuffle
-
-A fast, pure, side-effect-free, and deterministic Implementation of Fisher-Yates Shuffle
-
-[philihp/fast-shuffle](https://github.com/philihp/fast-shuffle) - 🌟 12
-
-## wisetime-io/pbts-grpc-transcoder
-
-A TypeScript library that provides gRPC to HTTP/1 & JSON transcoding for the protobuf.js library
-
-[wisetime-io/pbts-grpc-transcoder](https://github.com/wisetime-io/pbts-grpc-transcoder) - 🌟 12
-
-## camellia-app/camellia
-
-Browser extension which helps with managing huge amounts of browser bookmarks by placing them at the new tab screen.
-
-[camellia-app/camellia](https://github.com/camellia-app/camellia) - 🌟 12
-
-## PGilbertSchmitt/chanty
-
-A CSP (Communication Sequential Processes) written in TypeScript, based on Paybase's csp library 
-
-[PGilbertSchmitt/chanty](https://github.com/PGilbertSchmitt/chanty) - 🌟 11
-
-## guidesmiths/confabulous
-
-Confabulous is a hierarchical, asynchronous config loader and post processor.
-
-[guidesmiths/confabulous](https://github.com/guidesmiths/confabulous) - 🌟 11
-
-## ExtraBB/typegoose-cursor-pagination
-
-A mongoose plugin for cursor pagination with typegoose support
-
-[ExtraBB/typegoose-cursor-pagination](https://github.com/ExtraBB/typegoose-cursor-pagination) - 🌟 11
-
-## mccauli/subtitle-converter
-
-Parse and convert subtitle formats with NodeJS
-
-[mccauli/subtitle-converter](https://github.com/mccauli/subtitle-converter) - 🌟 11
-
-## vsimko/node-graphql-constraint-lambda
-
-GraphQL 'constraint' directive written in functional programming style
-
-[vsimko/node-graphql-constraint-lambda](https://github.com/vsimko/node-graphql-constraint-lambda) - 🌟 11
-
-## emailjs/emailjs-imap-handler
-
-Parse and compile IMAP commands
-
-[emailjs/emailjs-imap-handler](https://github.com/emailjs/emailjs-imap-handler) - 🌟 11
-
-## ncuhome/mincu
-
-南大家园 WEB JS API
-
-[ncuhome/mincu](https://github.com/ncuhome/mincu) - 🌟 10
-
-## nodeshift/npcheck
-
-"Node Package Checker" - A tool to run various checks on npm modules
-
-[nodeshift/npcheck](https://github.com/nodeshift/npcheck) - 🌟 10
-
-## bayesjs/bayesjs
-
-Inference on Bayesian Networks
-
-[bayesjs/bayesjs](https://github.com/bayesjs/bayesjs) - 🌟 10
-
-## nginformatica/amazing-react-charts
-
-A simple package to handle with charts.
-
-[nginformatica/amazing-react-charts](https://github.com/nginformatica/amazing-react-charts) - 🌟 10
-
-## integreat-io/integreat
-
-Node.js integration layer
-
-[integreat-io/integreat](https://github.com/integreat-io/integreat) - 🌟 10
-
-## yairopro/graph-fs
-
-Allow to browse files like a graph where each file or directory is a node.
-
-[yairopro/graph-fs](https://github.com/yairopro/graph-fs) - 🌟 9
+[DTStack/dt-react-component](https://github.com/DTStack/dt-react-component) - 🌟 39
