@@ -10,7 +10,7 @@ These repos are sorted by their stars and their `package.json` is updated in the
 
 The most powerful IO monad implementation in JS, possibly in any language!
 
-[getify/monio](https://github.com/getify/monio) - 🌟 928
+[getify/monio](https://github.com/getify/monio) - 🌟 929
 
 ## fannheyward/coc-pyright
 
@@ -28,7 +28,7 @@ Jest configuration preset for Angular projects.
 
 Vite plugin to run your node dev server with HMR!
 
-[axe-me/vite-plugin-node](https://github.com/axe-me/vite-plugin-node) - 🌟 535
+[axe-me/vite-plugin-node](https://github.com/axe-me/vite-plugin-node) - 🌟 537
 
 ## neo4j/neo4j-browser
 
@@ -58,7 +58,13 @@ nuxt-speedkit will help you to improve the lighthouse performance score (100/100
 
 Carbon Design System variant on top of Web Components
 
-[carbon-design-system/carbon-web-components](https://github.com/carbon-design-system/carbon-web-components) - 🌟 377
+[carbon-design-system/carbon-web-components](https://github.com/carbon-design-system/carbon-web-components) - 🌟 379
+
+## Azure/api-management-developer-portal
+
+Developer portal provided by the Azure API Management service.
+
+[Azure/api-management-developer-portal](https://github.com/Azure/api-management-developer-portal) - 🌟 374
 
 ## anonrig/nestjs-keycloak-admin
 
@@ -72,23 +78,29 @@ Keycloak client and admin provider for Nest.js applications with built-in User M
 
 [sibiraj-s/ngx-editor](https://github.com/sibiraj-s/ngx-editor) - 🌟 333
 
-## angelnikolov/ts-cacheable
-
-Observable/Promise Cache Decorator
-
-[angelnikolov/ts-cacheable](https://github.com/angelnikolov/ts-cacheable) - 🌟 323
-
 ## fabien0102/ts-to-zod
 
 Generate zod schemas from typescript types/interfaces
 
-[fabien0102/ts-to-zod](https://github.com/fabien0102/ts-to-zod) - 🌟 320
+[fabien0102/ts-to-zod](https://github.com/fabien0102/ts-to-zod) - 🌟 326
 
 ## remesh-js/remesh
 
 A CQRS-based DDD framework for large and complex TypeScript/JavaScript applications
 
-[remesh-js/remesh](https://github.com/remesh-js/remesh) - 🌟 319
+[remesh-js/remesh](https://github.com/remesh-js/remesh) - 🌟 324
+
+## angelnikolov/ts-cacheable
+
+Observable/Promise Cache Decorator
+
+[angelnikolov/ts-cacheable](https://github.com/angelnikolov/ts-cacheable) - 🌟 322
+
+## awto/effectfuljs
+
+JavaScript embedded effects compiler
+
+[awto/effectfuljs](https://github.com/awto/effectfuljs) - 🌟 307
 
 ## itsMapleLeaf/reacord
 
@@ -118,7 +130,7 @@ Implementation of Angular 1.x $cookies service to Angular 2
 
 Generate object types, inputs, args, etc. from prisma schema file for usage with @nestjs/graphql module
 
-[unlight/prisma-nestjs-graphql](https://github.com/unlight/prisma-nestjs-graphql) - 🌟 284
+[unlight/prisma-nestjs-graphql](https://github.com/unlight/prisma-nestjs-graphql) - 🌟 285
 
 ## pragmaticivan/nestjs-otel
 
@@ -148,7 +160,13 @@ NodeJS Task List derived from the best! Create beautiful CLI interfaces via easy
 
 🤖 Powerful Nest module for easy and fast creation Telegram bots. Read-only mirror, see https://git.robot-mafia.com/robot-mafia/nestjs-telegraf
 
-[bukhalo/nestjs-telegraf](https://github.com/bukhalo/nestjs-telegraf) - 🌟 253
+[bukhalo/nestjs-telegraf](https://github.com/bukhalo/nestjs-telegraf) - 🌟 255
+
+## hyochan/react-native-masonry-list
+
+The Masonry List implementation which has similar implementation as the `FlatList` in React Native
+
+[hyochan/react-native-masonry-list](https://github.com/hyochan/react-native-masonry-list) - 🌟 220
 
 ## akirarika/kurimudb
 
@@ -190,13 +208,25 @@ Observables and operators for RxJS
 
 AiO Homebridge dynamic platform plugin for AVM hardware like Fritz!Box, Fritz!Repeater etc.
 
-[seydx/homebridge-fritz-platform](https://github.com/seydx/homebridge-fritz-platform) - 🌟 184
+[seydx/homebridge-fritz-platform](https://github.com/seydx/homebridge-fritz-platform) - 🌟 185
+
+## iasql/iasql-engine
+
+Infrastructure as data in PostgreSQL
+
+[iasql/iasql-engine](https://github.com/iasql/iasql-engine) - 🌟 182
 
 ## HNeukermans/ng2-signalr
 
 angular2 - asp.net signalr library
 
 [HNeukermans/ng2-signalr](https://github.com/HNeukermans/ng2-signalr) - 🌟 180
+
+## Nerixyz/instagram_mqtt
+
+Realtime and Push Notification (FBNS) support for the instagram-private-api
+
+[Nerixyz/instagram_mqtt](https://github.com/Nerixyz/instagram_mqtt) - 🌟 180
 
 ## Brandawg93/homebridge-nest-cam
 
@@ -214,7 +244,7 @@ A library for making RxJS support async-await for-await loops via AsyncIterables
 
 keycloak-nodejs-connect module for Nest
 
-[ferrerojosh/nest-keycloak-connect](https://github.com/ferrerojosh/nest-keycloak-connect) - 🌟 172
+[ferrerojosh/nest-keycloak-connect](https://github.com/ferrerojosh/nest-keycloak-connect) - 🌟 174
 
 ## zoomsphere/ngx-store
 
@@ -222,11 +252,23 @@ Angular decorators to automagically keep variables in HTML5 LocalStorage, Sessio
 
 [zoomsphere/ngx-store](https://github.com/zoomsphere/ngx-store) - 🌟 165
 
+## jeffminsungkim/nestjs-multer-extended
+
+💪 Extended MulterModule for NestJS with flexible S3 upload and helpful features
+
+[jeffminsungkim/nestjs-multer-extended](https://github.com/jeffminsungkim/nestjs-multer-extended) - 🌟 164
+
 ## bahmutov/cypress-svelte-unit-test
 
 Unit testing Svelte components in Cypress E2E test runner
 
 [bahmutov/cypress-svelte-unit-test](https://github.com/bahmutov/cypress-svelte-unit-test) - 🌟 159
+
+## YajanaRao/Serenity
+
+Free App for Music, Meditation and Podcasts  🎸
+
+[YajanaRao/Serenity](https://github.com/YajanaRao/Serenity) - 🌟 156
 
 ## hivivo/ngx-json-viewer
 
@@ -256,7 +298,13 @@ Trying to load and bootstrap Angular component dynamically inside Cypress
 
 Pagination and filtering helper method for TypeORM repositories or query builders using Nest.js framework :book::paperclip:
 
-[ppetzold/nestjs-paginate](https://github.com/ppetzold/nestjs-paginate) - 🌟 143
+[ppetzold/nestjs-paginate](https://github.com/ppetzold/nestjs-paginate) - 🌟 145
+
+## johannesjo/angular-material-css-vars
+
+Little library to use css variables with @angular/material
+
+[johannesjo/angular-material-css-vars](https://github.com/johannesjo/angular-material-css-vars) - 🌟 145
 
 ## jmcdo29/nestjs-spelunker
 
@@ -268,19 +316,25 @@ A NestJS Module for generating a NestJS Applications Module Dependency Graph.
 
 Uniswap SDK which handles the routes automatically for you, changes in trade quotes reactive subscriptions, exposure to formatted easy to understand information, bringing back the best trade quotes automatically, generating transactions for you and much more.
 
-[joshstevens19/simple-uniswap-sdk](https://github.com/joshstevens19/simple-uniswap-sdk) - 🌟 138
+[joshstevens19/simple-uniswap-sdk](https://github.com/joshstevens19/simple-uniswap-sdk) - 🌟 139
 
 ## rocwang/vue-virtual-scroll-grid
 
 A Vue 3 component that can render a list with 1000+ items as a grid in a performant way.
 
-[rocwang/vue-virtual-scroll-grid](https://github.com/rocwang/vue-virtual-scroll-grid) - 🌟 137
+[rocwang/vue-virtual-scroll-grid](https://github.com/rocwang/vue-virtual-scroll-grid) - 🌟 138
 
 ## ngfelixl/nodeplotlib
 
 NodeJS plotting library for JavaScript and TypeScript. On top of plotly.js. Inspired by matplotlib.
 
-[ngfelixl/nodeplotlib](https://github.com/ngfelixl/nodeplotlib) - 🌟 135
+[ngfelixl/nodeplotlib](https://github.com/ngfelixl/nodeplotlib) - 🌟 136
+
+## kuhnroyal/mat-datetimepicker
+
+Material datetimepicker for @angular/material
+
+[kuhnroyal/mat-datetimepicker](https://github.com/kuhnroyal/mat-datetimepicker) - 🌟 136
 
 ## timdeschryver/eslint-plugin-ngrx
 
@@ -340,6 +394,12 @@ Aurelia-Slickgrid is a wrapper of the lightning fast & customizable SlickGrid da
 
 [ghiscoding/aurelia-slickgrid](https://github.com/ghiscoding/aurelia-slickgrid) - 🌟 113
 
+## Hexlet/hexletguides.github.io
+
+Hexlet Guides
+
+[Hexlet/hexletguides.github.io](https://github.com/Hexlet/hexletguides.github.io) - 🌟 113
+
 ## Marcisbee/exome
 
 🔅 State manager for deeply nested states
@@ -358,6 +418,12 @@ Docker + Jest integration testing for Node.js
 
 [erikengervall/dockest](https://github.com/erikengervall/dockest) - 🌟 108
 
+## mzuccaroli/angular-google-tag-manager
+
+A service library for integrate google tag manager in your angular project
+
+[mzuccaroli/angular-google-tag-manager](https://github.com/mzuccaroli/angular-google-tag-manager) - 🌟 107
+
 ## pvarentsov/iola
 
 🔄 iola: Command-line socket client with REST API.
@@ -372,7 +438,11 @@ Angular REST API client generator from Swagger YAML or JSON file with camel case
 
 ## alibaba/browser-extension-kit
 
-[alibaba/browser-extension-kit](https://github.com/alibaba/browser-extension-kit) - 🌟 99
+[alibaba/browser-extension-kit](https://github.com/alibaba/browser-extension-kit) - 🌟 100
+
+## luisanton-io/recoil-nexus
+
+[luisanton-io/recoil-nexus](https://github.com/luisanton-io/recoil-nexus) - 🌟 96
 
 ## patrickmichalina/typescript-monads
 
@@ -380,21 +450,17 @@ Angular REST API client generator from Swagger YAML or JSON file with camel case
 
 [patrickmichalina/typescript-monads](https://github.com/patrickmichalina/typescript-monads) - 🌟 96
 
-## luisanton-io/recoil-nexus
+## necordjs/necord
 
-[luisanton-io/recoil-nexus](https://github.com/luisanton-io/recoil-nexus) - 🌟 95
+🤖 A module for creating Discord bots using NestJS, based on Discord.js
+
+[necordjs/necord](https://github.com/necordjs/necord) - 🌟 95
 
 ## tigrr/circle-progress
 
 Responsive, accessible, animated, stylable with CSS circular progress bar available as plain (vanilla) JS and jQuery plugin.
 
 [tigrr/circle-progress](https://github.com/tigrr/circle-progress) - 🌟 94
-
-## necordjs/necord
-
-🤖 A module for creating Discord bots using NestJS, based on Discord.js
-
-[necordjs/necord](https://github.com/necordjs/necord) - 🌟 93
 
 ## vaadin/vaadin-upload
 
@@ -454,19 +520,49 @@ Homebridge plugin for Yeelights - special focus on supporting features of ceilin
 
 Node Red Google Home integration
 
-[andrei-tatar/node-red-contrib-smartnora](https://github.com/andrei-tatar/node-red-contrib-smartnora) - 🌟 79
+[andrei-tatar/node-red-contrib-smartnora](https://github.com/andrei-tatar/node-red-contrib-smartnora) - 🌟 80
+
+## planetscale/f1-championship-stats
+
+🏎
+
+[planetscale/f1-championship-stats](https://github.com/planetscale/f1-championship-stats) - 🌟 75
+
+## biowasm/aioli
+
+Framework for building fast genomics web tools with WebAssembly and WebWorkers
+
+[biowasm/aioli](https://github.com/biowasm/aioli) - 🌟 74
+
+## qualitybath/bunyan-slack
+
+Bunyan stream for Slack chat integration
+
+[qualitybath/bunyan-slack](https://github.com/qualitybath/bunyan-slack) - 🌟 73
+
+## Nikaple/nest-typed-config
+
+Intuitive, type-safe configuration module for Nest framework ✨
+
+[Nikaple/nest-typed-config](https://github.com/Nikaple/nest-typed-config) - 🌟 72
+
+## okta/samples-python-flask
+
+samples-python-flask
+
+[okta/samples-python-flask](https://github.com/okta/samples-python-flask) - 🌟 72
+
+## Kentico/gatsby-starter-kontent-lumen
+
+Lumen is a minimal, lightweight, and mobile-first starter for creating blogs using Gatsby and Kontent.ai.
+
+[Kentico/gatsby-starter-kontent-lumen](https://github.com/Kentico/gatsby-starter-kontent-lumen) - 🌟 71
 
 ## cvara/rxdb-hooks
 
 React hooks for integrating with RxDB
 
 [cvara/rxdb-hooks](https://github.com/cvara/rxdb-hooks) - 🌟 70
-
-## Nikaple/nest-typed-config
-
-Intuitive, type-safe configuration module for Nest framework ✨
-
-[Nikaple/nest-typed-config](https://github.com/Nikaple/nest-typed-config) - 🌟 70
 
 ## Papooch/nestjs-cls
 
@@ -478,7 +574,13 @@ A continuation-local storage module compatible with NestJS's dependency injectio
 
 Puppeteer (Headless Chrome) provider for Nest.js
 
-[tinovyatkin/nest-puppeteer](https://github.com/tinovyatkin/nest-puppeteer) - 🌟 68
+[tinovyatkin/nest-puppeteer](https://github.com/tinovyatkin/nest-puppeteer) - 🌟 69
+
+## alvarlagerlof/react-haze
+
+🌫 Easily show a fade at edges of lists to indicate scrollability
+
+[alvarlagerlof/react-haze](https://github.com/alvarlagerlof/react-haze) - 🌟 69
 
 ## benboba/svg-slim
 
@@ -508,7 +610,13 @@ TypeScript Casper Client SDK
 
 Casl integration for NestJS
 
-[getjerry/nest-casl](https://github.com/getjerry/nest-casl) - 🌟 61
+[getjerry/nest-casl](https://github.com/getjerry/nest-casl) - 🌟 62
+
+## Brooooooklyn/jsc-rs
+
+JavaScript core Rust safe binding
+
+[Brooooooklyn/jsc-rs](https://github.com/Brooooooklyn/jsc-rs) - 🌟 62
 
 ## denniske/ngx-translate-multi-http-loader
 
@@ -525,6 +633,12 @@ Three-Plain-Animator is a package for threejs developers to support 2D animation
 ## aorajs/aora
 
 [aorajs/aora](https://github.com/aorajs/aora) - 🌟 56
+
+## yumauri/effector-reeffect
+
+Concurrent effects for Effector ☄️
+
+[yumauri/effector-reeffect](https://github.com/yumauri/effector-reeffect) - 🌟 56
 
 ## gparlakov/scuri
 
@@ -549,6 +663,12 @@ Currency conversion module for nestjs
 Github Template that uses TypeScript with Node.js to create a BFF or Microservice API with Open API Specification
 
 [IBM/template-node-typescript](https://github.com/IBM/template-node-typescript) - 🌟 54
+
+## brundonsmith/bagel
+
+A reactive and strongly-typed, but also pragmatic, new programming language. Compiles to JavaScript, designed to be comfy for people used to the JavaScript/TypeScript language and ecosystem.
+
+[brundonsmith/bagel](https://github.com/brundonsmith/bagel) - 🌟 54
 
 ## pvarentsov/nestjs-pg-notify
 
@@ -598,6 +718,12 @@ A thin wrapping layer around the aws-sdk package for clean NestJS dependency inj
 
 [BeerMoneyDev/nest-aws-sdk](https://github.com/BeerMoneyDev/nest-aws-sdk) - 🌟 52
 
+## yuanqing/figma-plugins-stats
+
+:chart_with_upwards_trend: A CLI to get live and historical stats for your Figma plugins
+
+[yuanqing/figma-plugins-stats](https://github.com/yuanqing/figma-plugins-stats) - 🌟 52
+
 ## ikhsanalatsary/multer-sharp-s3
 
 Multer Sharp S3 is streaming multer storage engine permit to transform / resize the image and upload to AWS S3.
@@ -610,17 +736,29 @@ Angular directives for displaying validation errors
 
 [ngspot/ngx-errors](https://github.com/ngspot/ngx-errors) - 🌟 50
 
-## estrelajs/estrela
-
-Full Reactive Framework.
-
-[estrelajs/estrela](https://github.com/estrelajs/estrela) - 🌟 48
-
 ## misha130/ngx-drag-and-drop-lists
 
 Angular drag and drop component for lists
 
 [misha130/ngx-drag-and-drop-lists](https://github.com/misha130/ngx-drag-and-drop-lists) - 🌟 48
+
+## Shard-Labs/starknet-hardhat-example
+
+Examples of how Starknet Hardhat plugin can be used.
+
+[Shard-Labs/starknet-hardhat-example](https://github.com/Shard-Labs/starknet-hardhat-example) - 🌟 48
+
+## syauqi/restawrant
+
+🍣 — Restawrant adalah website bagi kebutuhan bisnis restoran anda untuk menampilkan menu yang tersedia dan membuat reservasi online dimana saja dan kapan saja.
+
+[syauqi/restawrant](https://github.com/syauqi/restawrant) - 🌟 48
+
+## estrelajs/estrela
+
+Full Reactive Framework.
+
+[estrelajs/estrela](https://github.com/estrelajs/estrela) - 🌟 47
 
 ## akshay5995/powerbi-report-component
 
@@ -652,11 +790,17 @@ NestJS middleware for handling multipart/form-data, which is primarily used for 
 
 [dmitriy-nz/nestjs-form-data](https://github.com/dmitriy-nz/nestjs-form-data) - 🌟 43
 
+## themeum/tutor
+
+A complete WordPress LMS plugin to create any e-learning website easily.
+
+[themeum/tutor](https://github.com/themeum/tutor) - 🌟 43
+
 ## Soomgo-Mobile/react-native-use-modal
 
 Easy way to turn modal into hook
 
-[Soomgo-Mobile/react-native-use-modal](https://github.com/Soomgo-Mobile/react-native-use-modal) - 🌟 39
+[Soomgo-Mobile/react-native-use-modal](https://github.com/Soomgo-Mobile/react-native-use-modal) - 🌟 40
 
 ## p-fedyukovich/nestjs-google-pubsub-microservice
 
@@ -704,7 +848,13 @@ A tool that allows you to quickly configure and setup Symbol testnets and nodes.
 
 A collection of reactive wrappers for various browser APIs.
 
-[chrisguttandin/subscribable-things](https://github.com/chrisguttandin/subscribable-things) - 🌟 36
+[chrisguttandin/subscribable-things](https://github.com/chrisguttandin/subscribable-things) - 🌟 37
+
+## chengpeiquan/vite-plugin-banner
+
+A banner plugin for Vite. It can adds a banner to the top of each generated chunk.
+
+[chengpeiquan/vite-plugin-banner](https://github.com/chengpeiquan/vite-plugin-banner) - 🌟 36
 
 ## symbol/symbol-cli
 
@@ -717,6 +867,12 @@ Command-line tool for Symbol
 Angular components for r$ch web applications
 
 [UiPath/angular-components](https://github.com/UiPath/angular-components) - 🌟 34
+
+## scssyworks/silkrouter
+
+Silk router is a reactive library for creating SPAs
+
+[scssyworks/silkrouter](https://github.com/scssyworks/silkrouter) - 🌟 33
 
 ## InfiniteXyy/zoov
 
@@ -744,21 +900,39 @@ Injectable Twilio client for Nestjs.
 
 [rejvban/nestjs-twilio](https://github.com/rejvban/nestjs-twilio) - 🌟 30
 
+## LWJerri/Pauperial
+
+Simple tool for making short links and QR-code for your looong links.
+
+[LWJerri/Pauperial](https://github.com/LWJerri/Pauperial) - 🌟 30
+
 ## ikkz/bext
 
 [ikkz/bext](https://github.com/ikkz/bext) - 🌟 29
-
-## KurtzL/nestjs-temporal
-
-Temporal plugin for nestjs framework
-
-[KurtzL/nestjs-temporal](https://github.com/KurtzL/nestjs-temporal) - 🌟 29
 
 ## microud/nest-mqtt
 
 A MQTT module for Nest.js.
 
 [microud/nest-mqtt](https://github.com/microud/nest-mqtt) - 🌟 29
+
+## mds1/Sweeposaurus
+
+Sweeposaurus helps you sweep all of your tokens to another address 🦖
+
+[mds1/Sweeposaurus](https://github.com/mds1/Sweeposaurus) - 🌟 29
+
+## risenforces/nestjs-zod
+
+All NestJS + Zod utilities you need
+
+[risenforces/nestjs-zod](https://github.com/risenforces/nestjs-zod) - 🌟 28
+
+## KurtzL/nestjs-temporal
+
+Temporal plugin for nestjs framework
+
+[KurtzL/nestjs-temporal](https://github.com/KurtzL/nestjs-temporal) - 🌟 28
 
 ## kepelrs/nestjs-prisma-crud
 
@@ -796,11 +970,29 @@ Angular Image Gallery based on Ngx-Gallery
 
 [zoubingwu/electron-shared-state](https://github.com/zoubingwu/electron-shared-state) - 🌟 28
 
+## mcqua007/shopify-bare
+
+ Shopify starter theme that provides Javascript modules(ES6 and node_modules), tree-shaking, Live Reloading/ Auto Reload Tab, Sass imports, purged unused CSS, minify your built files, compress your images, and use quick commands to develop easier.
+
+[mcqua007/shopify-bare](https://github.com/mcqua007/shopify-bare) - 🌟 28
+
 ## medblocks/medblocks-ui
 
 Web Components Library for Medblocks Ecosystem 
 
 [medblocks/medblocks-ui](https://github.com/medblocks/medblocks-ui) - 🌟 27
+
+## donavanbecker/homebridge-honeywell-home
+
+The Homebridge Honeywell Home plugin allows you to access your Honeywell Home thermostat from HomeKit.
+
+[donavanbecker/homebridge-honeywell-home](https://github.com/donavanbecker/homebridge-honeywell-home) - 🌟 27
+
+## twihike/nestjs-starter
+
+🚀 Nest framework starter
+
+[twihike/nestjs-starter](https://github.com/twihike/nestjs-starter) - 🌟 27
 
 ## dappsnation/ng-rive
 
@@ -886,11 +1078,17 @@ A Module for Utilizing Pg-promise with NestJS
 
 [rubiin/nestjs-pgpromise](https://github.com/rubiin/nestjs-pgpromise) - 🌟 24
 
-## risenforces/nestjs-zod
+## swisspost/design-system
 
-All NestJS + Zod utilities you need
+The Swiss Post Design System pattern library for a consistent and accessible user experience across the web platform.
 
-[risenforces/nestjs-zod](https://github.com/risenforces/nestjs-zod) - 🌟 23
+[swisspost/design-system](https://github.com/swisspost/design-system) - 🌟 24
+
+## ryo-currency/ryo-wallet
+
+Next Generation GUI Wallet for Ryo-currency
+
+[ryo-currency/ryo-wallet](https://github.com/ryo-currency/ryo-wallet) - 🌟 24
 
 ## svtslv/nestjs-objection
 
@@ -958,6 +1156,24 @@ This plugin integrates your esphome devices into HomeKit!
 
 [lucavb/homebridge-esphome-ts](https://github.com/lucavb/homebridge-esphome-ts) - 🌟 21
 
+## ray-network/minterr-app
+
+Cardano NFT marketplace, minting tool and explorer #1
+
+[ray-network/minterr-app](https://github.com/ray-network/minterr-app) - 🌟 21
+
+## matteolobello/type
+
+End-to-end typed monorepo template for your next project ⌨️
+
+[matteolobello/type](https://github.com/matteolobello/type) - 🌟 21
+
+## SenseNet/sn-client
+
+Monorepo for sensenet client packages 🐱‍💻
+
+[SenseNet/sn-client](https://github.com/SenseNet/sn-client) - 🌟 21
+
 ## Emiliano-Bucci/react-spring-carousel
 
 A new Carousel experience for the web.
@@ -993,6 +1209,16 @@ Browser based client application for SDRangel in remote mode
 Provide an AMQP connection as NestJS Module. Internally use amqp-connection-manager.
 
 [nest-x/nestx-amqp](https://github.com/nest-x/nestx-amqp) - 🌟 19
+
+## Pop-Code/nestjs-acl
+
+A nestjs module to check acl rules at runtime
+
+[Pop-Code/nestjs-acl](https://github.com/Pop-Code/nestjs-acl) - 🌟 19
+
+## jinmao88/vben3
+
+[jinmao88/vben3](https://github.com/jinmao88/vben3) - 🌟 19
 
 ## victos/angular-opensource
 
@@ -1064,6 +1290,18 @@ nestjs-pino-stackdriver
 
 [PrestaShopCorp/nestjs-pino-stackdriver](https://github.com/PrestaShopCorp/nestjs-pino-stackdriver) - 🌟 17
 
+## oslabs-beta/DockerVize
+
+Docker Visualizer
+
+[oslabs-beta/DockerVize](https://github.com/oslabs-beta/DockerVize) - 🌟 17
+
+## zuramai/saugi.me
+
+My Portofolio Website Created with NuxtJS and TailwindCSS
+
+[zuramai/saugi.me](https://github.com/zuramai/saugi.me) - 🌟 17
+
 ## PSanetra/bind-observable
 
 Provides a typescript decorator which binds class properties to observable companion properties.
@@ -1100,6 +1338,34 @@ RxJS DOM sensors
 
 [streamich/rx-use](https://github.com/streamich/rx-use) - 🌟 16
 
+## HFAiLab/jupyterlab_tensorboard_pro
+
+Tensorboard extension for Jupyterlab all in one
+
+[HFAiLab/jupyterlab_tensorboard_pro](https://github.com/HFAiLab/jupyterlab_tensorboard_pro) - 🌟 16
+
+## oslabs-beta/BACE
+
+[oslabs-beta/BACE](https://github.com/oslabs-beta/BACE) - 🌟 16
+
+## apache-superset/superset-ui-plugins-deckgl
+
+deck.gl plugins for Superset
+
+[apache-superset/superset-ui-plugins-deckgl](https://github.com/apache-superset/superset-ui-plugins-deckgl) - 🌟 16
+
+## yearn/macarena-finance
+
+Macarena finance is a simple UI for Yearn Finance, made to be forked!
+
+[yearn/macarena-finance](https://github.com/yearn/macarena-finance) - 🌟 16
+
+## antoncoding/squeeth-vol-oracle
+
+on-chain vol oracle from squeeth
+
+[antoncoding/squeeth-vol-oracle](https://github.com/antoncoding/squeeth-vol-oracle) - 🌟 16
+
 ## pasBone/vue-fit-next
 
 Vue directive with fit screen kit 一个可视化大屏自适应的工具集合
@@ -1111,185 +1377,3 @@ Vue directive with fit screen kit 一个可视化大屏自适应的工具集合
 Build LHC-Forms and FHIR Questionnaires
 
 [lhncbc/formbuilder-lhcforms](https://github.com/lhncbc/formbuilder-lhcforms) - 🌟 15
-
-## lehh/nestjs-soap
-
-Nestjs module wrapper for soap npm package
-
-[lehh/nestjs-soap](https://github.com/lehh/nestjs-soap) - 🌟 15
-
-## moloch--/sliver-script
-
-TypeScript/JavaScript client libraries for Sliver
-
-[moloch--/sliver-script](https://github.com/moloch--/sliver-script) - 🌟 15
-
-## osmosis-labs/osmojs
-
-OsmosJS makes it easy to compose and broadcast Osmosis and Cosmos messages
-
-[osmosis-labs/osmojs](https://github.com/osmosis-labs/osmojs) - 🌟 14
-
-## hellokvn/nestjs-event-sourcing
-
-[hellokvn/nestjs-event-sourcing](https://github.com/hellokvn/nestjs-event-sourcing) - 🌟 14
-
-## CARTAvis/carta-frontend
-
-Source code repository for the frontend component of CARTA, a new visualization tool designed for the ALMA, the VLA and the SKA pathfinders.
-
-[CARTAvis/carta-frontend](https://github.com/CARTAvis/carta-frontend) - 🌟 14
-
-## karttofer/quick-parcel-app
-
-📦 Parcel as Webpack allows you to create a react project but Parcel have every configuration ready, so quick-parcel-app do the same thing that create-react-app do, but with Parcel
-
-[karttofer/quick-parcel-app](https://github.com/karttofer/quick-parcel-app) - 🌟 13
-
-## Cryptorubic/rubic-sdk
-
-Simplify dApp creation
-
-[Cryptorubic/rubic-sdk](https://github.com/Cryptorubic/rubic-sdk) - 🌟 13
-
-## composer404/tabby-workspace-manager
-
-A Tabby plugin that allows you to create custom workspace profiles
-
-[composer404/tabby-workspace-manager](https://github.com/composer404/tabby-workspace-manager) - 🌟 13
-
-## dhealthproject/dhealth-wallet
-
-dHealth Wallet: Cross platform wallet software for dHealth Public Network
-
-[dhealthproject/dhealth-wallet](https://github.com/dhealthproject/dhealth-wallet) - 🌟 13
-
-## wisetime-io/grpc-web-rx
-
-A TypeScript library that provides RxJS support for gRPC-Web
-
-[wisetime-io/grpc-web-rx](https://github.com/wisetime-io/grpc-web-rx) - 🌟 13
-
-## Aliheym/typeorm-transactional
-
-A Transactional Method Decorator for TypeORM that uses cls-hooked to handle and propagate transactions between different repositories and service methods.
-
-[Aliheym/typeorm-transactional](https://github.com/Aliheym/typeorm-transactional) - 🌟 12
-
-## aperturerobotics/starpc
-
-Protobuf RPC for TypeScript and Go with streaming support.
-
-[aperturerobotics/starpc](https://github.com/aperturerobotics/starpc) - 🌟 12
-
-## jhosefmarks/app-demo-portinari
-
-App Demo PO UI
-
-[jhosefmarks/app-demo-portinari](https://github.com/jhosefmarks/app-demo-portinari) - 🌟 12
-
-## Danieliverant/ng-dl
-
-[Danieliverant/ng-dl](https://github.com/Danieliverant/ng-dl) - 🌟 12
-
-## fvilers/nestjs-algolia
-
-The algolia NestJS module based on the official algolia package
-
-[fvilers/nestjs-algolia](https://github.com/fvilers/nestjs-algolia) - 🌟 12
-
-## blockcoders/nestjs-websocket
-
-Websocket Client for NestJS based on ws
-
-[blockcoders/nestjs-websocket](https://github.com/blockcoders/nestjs-websocket) - 🌟 12
-
-## donavanbecker/homebridge-rainbird
-
-The Homebridge RainBird plugin allows you to access your RainBird Controller from HomeKit with Homebridge.
-
-[donavanbecker/homebridge-rainbird](https://github.com/donavanbecker/homebridge-rainbird) - 🌟 12
-
-## NIV54/entitify
-
-blazing fast API creation
-
-[NIV54/entitify](https://github.com/NIV54/entitify) - 🌟 12
-
-## waccit/unified-red
-
-Unified-RED is a fork of the popular node-red-dashboard project and adds several features and enhancements for the building automation industry.
-
-[waccit/unified-red](https://github.com/waccit/unified-red) - 🌟 12
-
-## pmb0/nestjs-tsx-views
-
-Server-side JSX/TSX rendering for your NestJS application
-
-[pmb0/nestjs-tsx-views](https://github.com/pmb0/nestjs-tsx-views) - 🌟 12
-
-## diz517/ngx-line-truncation
-
-An Angular line truncating solution. Truncate text block by given line number and add ellipsis to the end.
-
-[diz517/ngx-line-truncation](https://github.com/diz517/ngx-line-truncation) - 🌟 12
-
-## lofcz/sweetalert2-neutral
-
-Sweetalert2 sans "anti-war messages"
-
-[lofcz/sweetalert2-neutral](https://github.com/lofcz/sweetalert2-neutral) - 🌟 11
-
-## framasev/ng-cache-route-reuse
-
-Angular cache route reuse strategy
-
-[framasev/ng-cache-route-reuse](https://github.com/framasev/ng-cache-route-reuse) - 🌟 11
-
-## linkstreet/ng-datatable-x
-
-[linkstreet/ng-datatable-x](https://github.com/linkstreet/ng-datatable-x) - 🌟 11
-
-## canwhite/frer
-
-fre's state management library，written in rxjs
-
-[canwhite/frer](https://github.com/canwhite/frer) - 🌟 11
-
-## fernandoem88/react-hooks-in-callback
-
-[fernandoem88/react-hooks-in-callback](https://github.com/fernandoem88/react-hooks-in-callback) - 🌟 11
-
-## Strumenta/webeditkit
-
-A framework to build projectional editors running in the browser
-
-[Strumenta/webeditkit](https://github.com/Strumenta/webeditkit) - 🌟 11
-
-## costianur95/nestjs-fcm
-
-[costianur95/nestjs-fcm](https://github.com/costianur95/nestjs-fcm) - 🌟 11
-
-## rpbeukes/angular-typesafe-reactive-forms-helper
-
-Get intellisense when using Angular Reactive Forms, no more misspelled property names, refactoring Reactive Forms is back to a trivial IDE rename task.
-
-[rpbeukes/angular-typesafe-reactive-forms-helper](https://github.com/rpbeukes/angular-typesafe-reactive-forms-helper) - 🌟 11
-
-## HTMLElements/smart-webcomponents-angular
-
-Smart UI for Angular
-
-[HTMLElements/smart-webcomponents-angular](https://github.com/HTMLElements/smart-webcomponents-angular) - 🌟 11
-
-## NinjaSlayerSang/rx-immer
-
-A tiny package for JavaScript Web App's state management based on RxJS & Immer
-
-[NinjaSlayerSang/rx-immer](https://github.com/NinjaSlayerSang/rx-immer) - 🌟 10
-
-## temarusanov/nestjs-response-structure
-
-NestJS response payload structure
-
-[temarusanov/nestjs-response-structure](https://github.com/temarusanov/nestjs-response-structure) - 🌟 10

@@ -1,4 +1,4 @@
-# Popular dependents of **Cucumber.js** list
+# Popular dependents of **Cucumber.js**
 
 This list contains Github repos depending on **cucumber/cucumber-js**. 
 
@@ -10,7 +10,7 @@ These repos are sorted by their stars and their `package.json` is updated in the
 
 Hyperledger Fabric SDK for Node https://wiki.hyperledger.org/display/fabric
 
-[hyperledger/fabric-sdk-node](https://github.com/hyperledger/fabric-sdk-node) - 🌟 747
+[hyperledger/fabric-sdk-node](https://github.com/hyperledger/fabric-sdk-node) - 🌟 748
 
 ## bugsnag/bugsnag-js
 
@@ -22,19 +22,19 @@ Javascript error handling tool for Bugsnag. Monitor and report JavaScript bugs &
 
 TidGi is an privatcy-in-mind, automated, auto-git-backup, freely-deployed Tiddlywiki knowledge management Desktop note app, with local REST API. 「 太记 」是一个基于「 太微 TiddlyWiki 」的知识管理桌面应用，能保护隐私内容、高级自动化、自动Git云备份、部署为博客，且可通过RESTAPI与Anki等应用连接。（迭代开发中欢迎试用，开发进度见下方链接）(Under active development, see website below for details) 
 
-[tiddly-gittly/TidGi-Desktop](https://github.com/tiddly-gittly/TidGi-Desktop) - 🌟 695
+[tiddly-gittly/TidGi-Desktop](https://github.com/tiddly-gittly/TidGi-Desktop) - 🌟 702
 
 ## pubnub/javascript
 
 PubNub JavaScript SDK docs https://www.pubnub.com/docs/sdks/javascript
 
-[pubnub/javascript](https://github.com/pubnub/javascript) - 🌟 524
+[pubnub/javascript](https://github.com/pubnub/javascript) - 🌟 526
 
 ## webdriverio/cucumber-boilerplate
 
 Boilerplate project to run WebdriverIO tests with Cucumber
 
-[webdriverio/cucumber-boilerplate](https://github.com/webdriverio/cucumber-boilerplate) - 🌟 461
+[webdriverio/cucumber-boilerplate](https://github.com/webdriverio/cucumber-boilerplate) - 🌟 462
 
 ## serenity-js/serenity-js
 
@@ -58,7 +58,7 @@ Okta SignIn widget that renders the new login/auth/recovery flows
 
 The Tari protocol
 
-[tari-project/tari](https://github.com/tari-project/tari) - 🌟 276
+[tari-project/tari](https://github.com/tari-project/tari) - 🌟 277
 
 ## owncloud/web
 
@@ -70,7 +70,7 @@ The Tari protocol
 
 Consolidated view of all your chess games from chess.com, lichess, grandmaster games or custom pgn. 
 
-[openingtree/openingtree](https://github.com/openingtree/openingtree) - 🌟 268
+[openingtree/openingtree](https://github.com/openingtree/openingtree) - 🌟 269
 
 ## cloudevents/sdk-javascript
 
@@ -98,13 +98,13 @@ OriginTrail Decentralized Knowledge Graph network node
 
 ## Tallyb/cucumber-playwright
 
-[Tallyb/cucumber-playwright](https://github.com/Tallyb/cucumber-playwright) - 🌟 137
+[Tallyb/cucumber-playwright](https://github.com/Tallyb/cucumber-playwright) - 🌟 138
 
 ## CloudCannon/bookshop
 
 📚 A component development workflow for static websites.
 
-[CloudCannon/bookshop](https://github.com/CloudCannon/bookshop) - 🌟 129
+[CloudCannon/bookshop](https://github.com/CloudCannon/bookshop) - 🌟 131
 
 ## cucumber/cucumber-electron
 
@@ -134,13 +134,13 @@ Allure integrations for JavaScript test frameworks
 
 Common solutions and tools developed for Apigee
 
-[apigee/devrel](https://github.com/apigee/devrel) - 🌟 100
+[apigee/devrel](https://github.com/apigee/devrel) - 🌟 102
 
 ## rickvandermey/angular-starterkit
 
 Blazing fast 🚀advanced Angular Starterkit, with many features 😍🎯
 
-[rickvandermey/angular-starterkit](https://github.com/rickvandermey/angular-starterkit) - 🌟 93
+[rickvandermey/angular-starterkit](https://github.com/rickvandermey/angular-starterkit) - 🌟 94
 
 ## ekino/veggies
 
@@ -158,7 +158,7 @@ Beautifully simple UI testing for all the team. Test your Web and Native Mobile 
 
 Azure Pipelines extension for Terraform
 
-[jason-johnson/azure-pipelines-tasks-terraform](https://github.com/jason-johnson/azure-pipelines-tasks-terraform) - 🌟 66
+[jason-johnson/azure-pipelines-tasks-terraform](https://github.com/jason-johnson/azure-pipelines-tasks-terraform) - 🌟 67
 
 ## wikimedia/mediawiki-extensions-MobileFrontend
 
@@ -200,13 +200,19 @@ Run testcafe tests with gherkin syntax
 
 🌈 A modern framework for building web sites and apps
 
-[gestaltjs/gestalt](https://github.com/gestaltjs/gestalt) - 🌟 45
+[gestaltjs/gestalt](https://github.com/gestaltjs/gestalt) - 🌟 44
 
 ## scramjetorg/transform-hub
 
 Flexible and efficient data processing engine and an evolution of the popular Scramjet Framework based on node.js. Our Transform Hub was designed specifically for data processing and has its own unique algorithms included.
 
 [scramjetorg/transform-hub](https://github.com/scramjetorg/transform-hub) - 🌟 42
+
+## Shopify/cli
+
+Build apps, themes, and hydrogen storefronts for Shopify
+
+[Shopify/cli](https://github.com/Shopify/cli) - 🌟 41
 
 ## kevgo/text-runner
 
@@ -220,12 +226,6 @@ Test runner for text
 
 [madfish-solutions/templewallet-mobile](https://github.com/madfish-solutions/templewallet-mobile) - 🌟 40
 
-## Shopify/cli
-
-Build apps, themes, and hydrogen storefronts for Shopify
-
-[Shopify/cli](https://github.com/Shopify/cli) - 🌟 39
-
 ## usdoj/foia.gov
 
 Front-end for the National FOIA Portal
@@ -238,17 +238,17 @@ Library to ease implementation of the Screenplay pattern with CucumberJS
 
 [cucumber/screenplay.js](https://github.com/cucumber/screenplay.js) - 🌟 38
 
+## XGovFormBuilder/digital-form-builder
+
+Exploring how to quickly and easily design/prototype/deploy high quality digital forms for UK Gov. Based on the excellent work by DEFRA. Currently maintained by jen+forms@cautionyourblast.com at Caution Your Blast and a community collaboration between FCDO, HO, GDS, DfE, DIT, Version 1
+
+[XGovFormBuilder/digital-form-builder](https://github.com/XGovFormBuilder/digital-form-builder) - 🌟 37
+
 ## larryg01/klassi-js
 
   A platform independent debuggable BDD Javascript testing framework. It's simple and easy to use. It's built with nodeJs, webdriver.io ((Next-gen WebDriver for Node.js) and cucumber-js complete with integrated Visual regression and API Testing.
 
 [larryg01/klassi-js](https://github.com/larryg01/klassi-js) - 🌟 36
-
-## XGovFormBuilder/digital-form-builder
-
-Exploring how to quickly and easily design/prototype/deploy high quality digital forms for UK Gov. Based on the excellent work by DEFRA. Currently maintained by jen+forms@cautionyourblast.com at Caution Your Blast and a community collaboration between FCDO, HO, GDS, DfE, DIT, Version 1
-
-[XGovFormBuilder/digital-form-builder](https://github.com/XGovFormBuilder/digital-form-builder) - 🌟 36
 
 ## vaticle/typedb-client-nodejs
 
@@ -328,17 +328,17 @@ Node.Js library for communicating with the Aspose.Words Cloud API
 
 [aspose-words-cloud/aspose-words-cloud-node](https://github.com/aspose-words-cloud/aspose-words-cloud-node) - 🌟 20
 
+## VNG-Realisatie/nlx
+
+*MIRROR* - NLX is an open source inter-organisational system facilitating federated authentication, secure connecting and protocolling in a large-scale, dynamic API landscape.
+
+[VNG-Realisatie/nlx](https://github.com/VNG-Realisatie/nlx) - 🌟 20
+
 ## centrifuge/apps
 
 Monorepo for Tinlake applications.
 
 [centrifuge/apps](https://github.com/centrifuge/apps) - 🌟 20
-
-## VNG-Realisatie/nlx
-
-*MIRROR* - NLX is an open source inter-organisational system facilitating federated authentication, secure connecting and protocolling in a large-scale, dynamic API landscape.
-
-[VNG-Realisatie/nlx](https://github.com/VNG-Realisatie/nlx) - 🌟 19
 
 ## etherspot/etherspot-sdk
 
@@ -364,29 +364,29 @@ An accelerator for generating frontend applications with Next.js and React.
 
 [pagesource/universal-react-v2](https://github.com/pagesource/universal-react-v2) - 🌟 17
 
+## pactumjs/pactum-cucumber-boilerplate
+
+Boilerplate project to run REST API tests with Cucumber & Pactum
+
+[pactumjs/pactum-cucumber-boilerplate](https://github.com/pactumjs/pactum-cucumber-boilerplate) - 🌟 17
+
 ## webdriverio-community/wdio-cucumberjs-json-reporter
 
 A WDIO reporter that creates CucumberJS JSON files for WebdriverIO V6+
 
 [webdriverio-community/wdio-cucumberjs-json-reporter](https://github.com/webdriverio-community/wdio-cucumberjs-json-reporter) - 🌟 16
 
-## pactumjs/pactum-cucumber-boilerplate
+## adessoSE/Seed-Test
 
-Boilerplate project to run REST API tests with Cucumber & Pactum
+Low Code UI-Testing Platform with Selenium and Cucumber
 
-[pactumjs/pactum-cucumber-boilerplate](https://github.com/pactumjs/pactum-cucumber-boilerplate) - 🌟 16
+[adessoSE/Seed-Test](https://github.com/adessoSE/Seed-Test) - 🌟 16
 
 ## SmartBear/git-en-boite
 
 Web service facade for interacting with git repos on various providers - GitHub/BitBucket/GitLab etc.
 
 [SmartBear/git-en-boite](https://github.com/SmartBear/git-en-boite) - 🌟 16
-
-## adessoSE/Seed-Test
-
-Low Code UI-Testing Platform with Selenium and Cucumber
-
-[adessoSE/Seed-Test](https://github.com/adessoSE/Seed-Test) - 🌟 15
 
 ## HHS/Head-Start-TTADP
 
@@ -454,6 +454,12 @@ Learning aide, note taking, team learning, etc.
 
 [nerds-odd-e/doughnut](https://github.com/nerds-odd-e/doughnut) - 🌟 12
 
+## kaiwalyakoparkar/quora-for-college
+
+This is a final year project facilitating api to all students of the any college to ask questions on the open forum platform.
+
+[kaiwalyakoparkar/quora-for-college](https://github.com/kaiwalyakoparkar/quora-for-college) - 🌟 12
+
 ## Slashgear/slashgear.github.io
 
 Personal blog of Antoine Caron aka Slashgear
@@ -481,12 +487,6 @@ Instant OpenHIE - see docs here:
 Enables your browser-based automated tests to authenticate with your web app.
 
 [jan-molak/authenticator-browser-extension](https://github.com/jan-molak/authenticator-browser-extension) - 🌟 12
-
-## kaiwalyakoparkar/quora-for-college
-
-This is a final year project facilitating api to all students of the any college to ask questions on the open forum platform.
-
-[kaiwalyakoparkar/quora-for-college](https://github.com/kaiwalyakoparkar/quora-for-college) - 🌟 11
 
 ## purpleteam-labs/purpleteam-app-scanner
 
@@ -724,6 +724,10 @@ Boilerplate code to run Nightwatch tests with Cucumber
 
 [nightwatchjs/cucumberjs-boilerplate](https://github.com/nightwatchjs/cucumberjs-boilerplate) - 🌟 4
 
+## copeautomation/wdio-cucumber-e2e-test
+
+[copeautomation/wdio-cucumber-e2e-test](https://github.com/copeautomation/wdio-cucumber-e2e-test) - 🌟 4
+
 ## Azure-Sphere-Tools/azsphere-hardware-definition-tools
 
 Azure Sphere Hardware Tools extension for Visual Studio & Visual Studio Code.
@@ -786,6 +790,12 @@ The Poki Networking Library for online multiplayer web games!
 
 [poki/netlib](https://github.com/poki/netlib) - 🌟 3
 
+## depapp/pusakatest
+
+pusakatest is an automation testing tool based on pactumjs using bdd (cucumber) style with localization
+
+[depapp/pusakatest](https://github.com/depapp/pusakatest) - 🌟 3
+
 ## qavajs/template
 
 library that allow to define step definitions on Gherkin language
@@ -820,10 +830,6 @@ Cucumber Management System
 
 [webship/cucumber](https://github.com/webship/cucumber) - 🌟 3
 
-## topicquests/sensecraft
-
-[topicquests/sensecraft](https://github.com/topicquests/sensecraft) - 🌟 3
-
 ## cvenkatreddy/cypress-bdd-pom
 
 A sample framework with Cypress, BDD(Gherkin) using Typescript/Javascript. Reports are generated using Allure/Mochawesome
@@ -851,10 +857,6 @@ opinionated scaffolder for new projects
 UI automated testing powered by very friendly node setup, Nightwatch integrated with cucumber BDD
 
 [satabdisikdar/nightwatch-cucumber](https://github.com/satabdisikdar/nightwatch-cucumber) - 🌟 3
-
-## copeautomation/wdio-cucumber-e2e-test
-
-[copeautomation/wdio-cucumber-e2e-test](https://github.com/copeautomation/wdio-cucumber-e2e-test) - 🌟 3
 
 ## ssvaidyanathan/apigee-hybrid-ci-cd
 
@@ -948,7 +950,7 @@ Run cucumber features or scenarios in parallel with limited threads count
 
 ## Proskynete/cypress-cucumber-boilerplate
 
-Cypress Cucumber Boilerplate
+A boilerplate designed to run e2e tests using TS, Gherkins and Linter, generating a report at the end of the execution
 
 [Proskynete/cypress-cucumber-boilerplate](https://github.com/Proskynete/cypress-cucumber-boilerplate) - 🌟 2
 
@@ -958,17 +960,17 @@ console formatter for cucumber
 
 [qavajs/console-formatter](https://github.com/qavajs/console-formatter) - 🌟 2
 
+## TMTecnologia/turborepo-tmtecnologia
+
+Turborepo TMTecnologia Starter: tooling config (eslint, cz, syncpack, changeset, ...) and opinions
+
+[TMTecnologia/turborepo-tmtecnologia](https://github.com/TMTecnologia/turborepo-tmtecnologia) - 🌟 2
+
 ## serenity-js/serenity-js-cucumber-playwright-template
 
 Test your web apps with Serenity/JS, Playwright and Cucumber.js
 
 [serenity-js/serenity-js-cucumber-playwright-template](https://github.com/serenity-js/serenity-js-cucumber-playwright-template) - 🌟 2
-
-## depapp/pusakatest
-
-pusakatest is an automation testing tool based on pactumjs using bdd (cucumber) style with localization
-
-[depapp/pusakatest](https://github.com/depapp/pusakatest) - 🌟 2
 
 ## kiranadh1452/complexityAnalysis-of-exampleTable
 
@@ -993,12 +995,6 @@ RESolution project msg bot
 ## Squad1PSA/squad1_is3_2022
 
 [Squad1PSA/squad1_is3_2022](https://github.com/Squad1PSA/squad1_is3_2022) - 🌟 2
-
-## gianlucamangiapelo/wdio-azure-devops-service
-
-Custom WDIO service to publish WebdriverIO results on Azure DevOps Test Plans.
-
-[gianlucamangiapelo/wdio-azure-devops-service](https://github.com/gianlucamangiapelo/wdio-azure-devops-service) - 🌟 2
 
 ## cuaklabs/iocuak
 
@@ -1149,6 +1145,12 @@ A Node.js project that provides working examples of API testing using Cucumber w
 Template VueJS Dashboard
 
 [mi-sec/template-vue-dashboard](https://github.com/mi-sec/template-vue-dashboard) - 🌟 2
+
+## Sonichigo/Happy-BDay-Eddie
+
+API Testing made during the EddieCon-01 Eddie's workshop!
+
+[Sonichigo/Happy-BDay-Eddie](https://github.com/Sonichigo/Happy-BDay-Eddie) - 🌟 2
 
 ## GluuFederation/inbound-saml
 

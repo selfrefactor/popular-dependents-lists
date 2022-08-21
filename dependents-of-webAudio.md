@@ -10,25 +10,19 @@ These repos are sorted by their stars and their `package.json` is updated in the
 
 Scripting in Clojure on Node.js using SCI
 
-[babashka/nbb](https://github.com/babashka/nbb) - 🌟 599
+[babashka/nbb](https://github.com/babashka/nbb) - 🌟 601
 
 ## charlieroberts/gibber.audio.lib
 
 music and audio library for Gibber
 
-[charlieroberts/gibber.audio.lib](https://github.com/charlieroberts/gibber.audio.lib) - 🌟 65
+[charlieroberts/gibber.audio.lib](https://github.com/charlieroberts/gibber.audio.lib) - 🌟 66
 
 ## spotify/basic-pitch-ts
 
 A lightweight yet powerful audio-to-MIDI converter with pitch bend detection
 
-[spotify/basic-pitch-ts](https://github.com/spotify/basic-pitch-ts) - 🌟 44
-
-## Tenpi/Kisaragi
-
-This is a discord bot that focuses on searching for anime pictures and playing music. There are some other misc and utility commands as well.
-
-[Tenpi/Kisaragi](https://github.com/Tenpi/Kisaragi) - 🌟 15
+[spotify/basic-pitch-ts](https://github.com/spotify/basic-pitch-ts) - 🌟 45
 
 ## ardean/jsGBC-core
 

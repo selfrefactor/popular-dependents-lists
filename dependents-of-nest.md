@@ -6,552 +6,240 @@ These repos are sorted by their stars and their `package.json` is updated in the
 
 > This list is created with `build-stars-of` library.
 
-## nestjsx/nest-access-control
+## udleinati/redirect.center
 
-Role and Attribute based Access Control for Nestjs 🔐
+Redirect domains using DNS only
 
-[nestjsx/nest-access-control](https://github.com/nestjsx/nest-access-control) - 🌟 807
+[udleinati/redirect.center](https://github.com/udleinati/redirect.center) - 🌟 224
 
-## iamolegga/nestjs-pino
+## sounishnath003/450-DSA-Tracker
 
-Platform agnostic logger for NestJS based on Pino with REQUEST CONTEXT IN EVERY LOG
+Questions selected by Love Babbar, helps you to track your progress in solving 450 & keeps you engaging based on the DSA-cracker List
 
-[iamolegga/nestjs-pino](https://github.com/iamolegga/nestjs-pino) - 🌟 681
+[sounishnath003/450-DSA-Tracker](https://github.com/sounishnath003/450-DSA-Tracker) - 🌟 198
 
-## nestjsx/nestjs-typeorm-paginate
+## Escape-Technologies/graphql-armor
 
-:page_with_curl: Pagination response object function + types for typeorm + nestjs
+🛡️ Dead-simple, yet highly customizable security middleware for Apollo GraphQL and Envelop servers 🛡️
 
-[nestjsx/nestjs-typeorm-paginate](https://github.com/nestjsx/nestjs-typeorm-paginate) - 🌟 656
+[Escape-Technologies/graphql-armor](https://github.com/Escape-Technologies/graphql-armor) - 🌟 177
 
-## axe-me/vite-plugin-node
+## th8ta/ArConnect
 
-Vite plugin to run your node dev server with HMR!
+🦔 Secure wallet management for Arweave
 
-[axe-me/vite-plugin-node](https://github.com/axe-me/vite-plugin-node) - 🌟 529
+[th8ta/ArConnect](https://github.com/th8ta/ArConnect) - 🌟 87
 
-## kyle-mccarthy/nest-next
+## rolling-scopes-school/nodejs-course-template
 
-Render Module to add Nextjs support for Nestjs
+[rolling-scopes-school/nodejs-course-template](https://github.com/rolling-scopes-school/nodejs-course-template) - 🌟 45
 
-[kyle-mccarthy/nest-next](https://github.com/kyle-mccarthy/nest-next) - 🌟 506
+## sanvishal/wrighter
 
-## Pop-Code/nestjs-console
+write the (w)right way!
 
-A nestjs module that provide a cli to your application.
+[sanvishal/wrighter](https://github.com/sanvishal/wrighter) - 🌟 41
 
-[Pop-Code/nestjs-console](https://github.com/Pop-Code/nestjs-console) - 🌟 468
+## apollographql/apollo-federation-subgraph-compatibility
 
-## toonvanstrijp/nestjs-i18n
+A repo to test subgraph libraries compatibility with the Apollo Federation Specification
 
-The i18n module for nestjs.
+[apollographql/apollo-federation-subgraph-compatibility](https://github.com/apollographql/apollo-federation-subgraph-compatibility) - 🌟 38
 
-[toonvanstrijp/nestjs-i18n](https://github.com/toonvanstrijp/nestjs-i18n) - 🌟 375
+## Enime-Project/api.enime.moe
 
-## gremo/nest-winston
+An API service for developers to quickly access the anime info and sources
 
-A Nest module wrapper form winston logger
+[Enime-Project/api.enime.moe](https://github.com/Enime-Project/api.enime.moe) - 🌟 33
 
-[gremo/nest-winston](https://github.com/gremo/nest-winston) - 🌟 373
+## AlexVitalik/lime-backend
 
-## anonrig/nestjs-keycloak-admin
+Lime Backend 是一个用 Nest 开发的后端项目，并使用了 Fastify、TypeScript、Graphql、Prisma、PostgreSQL 等技术。
 
-Keycloak client and admin provider for Nest.js applications with built-in User Managed Access (UMA) and ACL support.
+[AlexVitalik/lime-backend](https://github.com/AlexVitalik/lime-backend) - 🌟 33
 
-[anonrig/nestjs-keycloak-admin](https://github.com/anonrig/nestjs-keycloak-admin) - 🌟 369
+## sigle/stxstats
 
-## unlight/prisma-nestjs-graphql
+Get the latest data from Stacks blockchain.
 
-Generate object types, inputs, args, etc. from prisma schema file for usage with @nestjs/graphql module
+[sigle/stxstats](https://github.com/sigle/stxstats) - 🌟 31
 
-[unlight/prisma-nestjs-graphql](https://github.com/unlight/prisma-nestjs-graphql) - 🌟 284
+## LWJerri/Pauperial
 
-## pragmaticivan/nestjs-otel
+Simple tool for making short links and QR-code for your looong links.
 
-OpenTelemetry (Tracing + Metrics) module for Nest framework (node.js)  🔭
-
-[pragmaticivan/nestjs-otel](https://github.com/pragmaticivan/nestjs-otel) - 🌟 272
-
-## bukhalo/nestjs-telegraf
-
-🤖 Powerful Nest module for easy and fast creation Telegram bots. Read-only mirror, see https://git.robot-mafia.com/robot-mafia/nestjs-telegraf
-
-[bukhalo/nestjs-telegraf](https://github.com/bukhalo/nestjs-telegraf) - 🌟 253
-
-## TimurRK/nestjs-example
-
-NestJS example with GraphQL, schema stitching, schema reload, dataloader, RabbitMQ, Redis, Scalable Websocket and JWT authentication
-
-[TimurRK/nestjs-example](https://github.com/TimurRK/nestjs-example) - 🌟 221
-
-## jmcdo29/nest-commander
-
-A module for using NestJS to build up CLI applications
-
-[jmcdo29/nest-commander](https://github.com/jmcdo29/nest-commander) - 🌟 219
-
-## ozkanonur/nestjs-rate-limiter
-
-Highly configurable and extensible rate limiter library
-
-[ozkanonur/nestjs-rate-limiter](https://github.com/ozkanonur/nestjs-rate-limiter) - 🌟 212
-
-## masumsoft/express-cassandra
-
-Cassandra ORM/ODM/OGM for Node.js with optional support for Elassandra & JanusGraph
-
-[masumsoft/express-cassandra](https://github.com/masumsoft/express-cassandra) - 🌟 194
-
-## mentos1386/nest-raven
-
-Sentry Module for Nest.js Framework
-
-[mentos1386/nest-raven](https://github.com/mentos1386/nest-raven) - 🌟 179
-
-## AlariCode/nestjs-rmq
-
-A custom library for NestJS microservice. It allows you to use RabbitMQ or AMQP.
-
-[AlariCode/nestjs-rmq](https://github.com/AlariCode/nestjs-rmq) - 🌟 175
-
-## ferrerojosh/nest-keycloak-connect
-
-keycloak-nodejs-connect module for Nest
-
-[ferrerojosh/nest-keycloak-connect](https://github.com/ferrerojosh/nest-keycloak-connect) - 🌟 172
-
-## iamolegga/nestjs-roles
-
-Type safe roles guard and decorator made easy
-
-[iamolegga/nestjs-roles](https://github.com/iamolegga/nestjs-roles) - 🌟 167
-
-## rubiin/nestjs-easyconfig
-
-Manage nestjs configs on the go 🔥
-
-[rubiin/nestjs-easyconfig](https://github.com/rubiin/nestjs-easyconfig) - 🌟 167
-
-## fjodor-rybakov/discord-nestjs
-
-👾 NestJS package for discord.js
-
-[fjodor-rybakov/discord-nestjs](https://github.com/fjodor-rybakov/discord-nestjs) - 🌟 148
-
-## ppetzold/nestjs-paginate
-
-Pagination and filtering helper method for TypeORM repositories or query builders using Nest.js framework :book::paperclip:
-
-[ppetzold/nestjs-paginate](https://github.com/ppetzold/nestjs-paginate) - 🌟 143
-
-## iamolegga/nestjs-session
-
-Idiomatic Session Module for NestJS. Built on top of `express-session` 😎
-
-[iamolegga/nestjs-session](https://github.com/iamolegga/nestjs-session) - 🌟 141
-
-## jmcdo29/nestjs-spelunker
-
-A NestJS Module for generating a NestJS Applications Module Dependency Graph.
-
-[jmcdo29/nestjs-spelunker](https://github.com/jmcdo29/nestjs-spelunker) - 🌟 140
-
-## ngfelixl/nodeplotlib
-
-NodeJS plotting library for JavaScript and TypeScript. On top of plotly.js. Inspired by matplotlib.
-
-[ngfelixl/nodeplotlib](https://github.com/ngfelixl/nodeplotlib) - 🌟 135
-
-## adrien2p/medusa-extender
-
-:syringe: Medusa on steroid, take your medusa project to the next level with some badass features :rocket:
-
-[adrien2p/medusa-extender](https://github.com/adrien2p/medusa-extender) - 🌟 120
-
-## PayU/prometheus-api-metrics
-
-API and process monitoring with Prometheus for Node.js micro-service
-
-[PayU/prometheus-api-metrics](https://github.com/PayU/prometheus-api-metrics) - 🌟 118
-
-## pvarentsov/iola
-
-🔄 iola: Command-line socket client with REST API.
-
-[pvarentsov/iola](https://github.com/pvarentsov/iola) - 🌟 103
-
-## necordjs/necord
-
-🤖 A module for creating Discord bots using NestJS, based on Discord.js
-
-[necordjs/necord](https://github.com/necordjs/necord) - 🌟 93
-
-## hardyscc/nestjs-dynamoose
-
-Dynamoose module for Nest
-
-[hardyscc/nestjs-dynamoose](https://github.com/hardyscc/nestjs-dynamoose) - 🌟 84
-
-## node-casbin/nest-authz
-
-nest-authz is a NestJS authorization module based on casbin
-
-[node-casbin/nest-authz](https://github.com/node-casbin/nest-authz) - 🌟 80
-
-## Nikaple/nest-typed-config
-
-Intuitive, type-safe configuration module for Nest framework ✨
-
-[Nikaple/nest-typed-config](https://github.com/Nikaple/nest-typed-config) - 🌟 70
-
-## Papooch/nestjs-cls
-
-A continuation-local storage module compatible with NestJS's dependency injection.
-
-[Papooch/nestjs-cls](https://github.com/Papooch/nestjs-cls) - 🌟 69
-
-## tinovyatkin/nest-puppeteer
-
-Puppeteer (Headless Chrome) provider for Nest.js
-
-[tinovyatkin/nest-puppeteer](https://github.com/tinovyatkin/nest-puppeteer) - 🌟 68
-
-## flamewow/nestjs-asyncapi
-
-NestJS AsyncAPI module - generate the documentation of your event-based services using swagger-like decorators
-
-[flamewow/nestjs-asyncapi](https://github.com/flamewow/nestjs-asyncapi) - 🌟 67
-
-## getjerry/nest-casl
-
-Casl integration for NestJS
-
-[getjerry/nest-casl](https://github.com/getjerry/nest-casl) - 🌟 61
-
-## adrien2p/nestjs-dialogflow
-
-Dialog flow module that simplify the web hook handling for your NLP application using NestJS :satellite:
-
-[adrien2p/nestjs-dialogflow](https://github.com/adrien2p/nestjs-dialogflow) - 🌟 60
-
-## aorajs/aora
-
-[aorajs/aora](https://github.com/aorajs/aora) - 🌟 56
-
-## pvarentsov/nestjs-pg-notify
-
-NestJS custom transport strategy for PostgreSQL Pub/Sub.
-
-[pvarentsov/nestjs-pg-notify](https://github.com/pvarentsov/nestjs-pg-notify) - 🌟 53
-
-## bukhalo/nestjs-telegram
-
-🤖 A NestJS Telegram module for using the Telegram Bot API
-
-[bukhalo/nestjs-telegram](https://github.com/bukhalo/nestjs-telegram) - 🌟 53
-
-## BeerMoneyDev/nest-aws-sdk
-
-A thin wrapping layer around the aws-sdk package for clean NestJS dependency injection.
-
-[BeerMoneyDev/nest-aws-sdk](https://github.com/BeerMoneyDev/nest-aws-sdk) - 🌟 52
-
-## kkoomen/nestjs-throttler-storage-redis
-
-Redis storage provider for the nestjs-throttler package.
-
-[kkoomen/nestjs-throttler-storage-redis](https://github.com/kkoomen/nestjs-throttler-storage-redis) - 🌟 52
-
-## blockcoders/nestjs-ethers
-
-Ethereum utilities for NestJS based on Ethers.js
-
-[blockcoders/nestjs-ethers](https://github.com/blockcoders/nestjs-ethers) - 🌟 51
-
-## benhason1/nestjs-http-promise
-
-promise implementation of nestjs http module with retries feature using axios-retry and axios
-
-[benhason1/nestjs-http-promise](https://github.com/benhason1/nestjs-http-promise) - 🌟 48
-
-## adam-cowley/nest-neo4j
-
-A NestJS module for integrating with Neo4j
-
-[adam-cowley/nest-neo4j](https://github.com/adam-cowley/nest-neo4j) - 🌟 47
-
-## dmitriy-nz/nestjs-form-data
-
-NestJS middleware for handling multipart/form-data, which is primarily used for uploading files.
-
-[dmitriy-nz/nestjs-form-data](https://github.com/dmitriy-nz/nestjs-form-data) - 🌟 42
-
-## rubiin/nestjs-minio
-
-Your favorite object storage with nestjs
-
-[rubiin/nestjs-minio](https://github.com/rubiin/nestjs-minio) - 🌟 40
-
-## p-fedyukovich/nestjs-google-pubsub-microservice
-
-Custom Google Cloud Pub/Sub microservice transport for Nest framework (node.js) 
-
-[p-fedyukovich/nestjs-google-pubsub-microservice](https://github.com/p-fedyukovich/nestjs-google-pubsub-microservice) - 🌟 39
-
-## iamolegga/nestjs-cookie-session
-
-Idiomatic Cookie Session Module for NestJS. Built on top of `cookie-session` 😻
-
-[iamolegga/nestjs-cookie-session](https://github.com/iamolegga/nestjs-cookie-session) - 🌟 39
-
-## Deathspike/animesync
-
-AnimeSync is capable of downloading anime episodes from popular streaming services.
-
-[Deathspike/animesync](https://github.com/Deathspike/animesync) - 🌟 37
-
-## pmb0/nestjs-unleash
-
-Unleash feature toggle support for NestJS
-
-[pmb0/nestjs-unleash](https://github.com/pmb0/nestjs-unleash) - 🌟 37
-
-## erikc5000/nest-mongodb
-
-MongoDB driver module for NestJS
-
-[erikc5000/nest-mongodb](https://github.com/erikc5000/nest-mongodb) - 🌟 36
-
-## iamolegga/create-nestjs-middleware-module
-
-NestJS configured middleware module made simple
-
-[iamolegga/create-nestjs-middleware-module](https://github.com/iamolegga/create-nestjs-middleware-module) - 🌟 35
-
-## PrestaShopCorp/nestjs-geteventstore
-
-[PrestaShopCorp/nestjs-geteventstore](https://github.com/PrestaShopCorp/nestjs-geteventstore) - 🌟 31
-
-## rejvban/nestjs-twilio
-
-Injectable Twilio client for Nestjs.
-
-[rejvban/nestjs-twilio](https://github.com/rejvban/nestjs-twilio) - 🌟 30
-
-## backk-node/backk
-
-Backk - Node.js framework for creating security-first cloud-native microservices for Kubernetes in Typescript
-
-[backk-node/backk](https://github.com/backk-node/backk) - 🌟 29
-
-## microud/nest-mqtt
-
-A MQTT module for Nest.js.
-
-[microud/nest-mqtt](https://github.com/microud/nest-mqtt) - 🌟 29
-
-## wjq990112/nestjs-ssr
-
-A template using NestJS for both SSR and RESTful API based on Vite.
-
-[wjq990112/nestjs-ssr](https://github.com/wjq990112/nestjs-ssr) - 🌟 29
-
-## KurtzL/nestjs-temporal
-
-Temporal plugin for nestjs framework
-
-[KurtzL/nestjs-temporal](https://github.com/KurtzL/nestjs-temporal) - 🌟 28
-
-## kepelrs/nestjs-prisma-crud
-
-CRUD package for NestJS and Prisma ORM
-
-[kepelrs/nestjs-prisma-crud](https://github.com/kepelrs/nestjs-prisma-crud) - 🌟 28
-
-## bjerkio/nestjs-oso
-
-Simplify implementation of oso with NestJS.
-
-[bjerkio/nestjs-oso](https://github.com/bjerkio/nestjs-oso) - 🌟 28
-
-## freshfox/firestore-storage
-
-A typed wrapper around Firestore incluing a querybuilder and an in-memory implementation for testing
-
-[freshfox/firestore-storage](https://github.com/freshfox/firestore-storage) - 🌟 28
-
-## bjerkio/nestjs-slack
-
-[bjerkio/nestjs-slack](https://github.com/bjerkio/nestjs-slack) - 🌟 25
-
-## pact-foundation/nestjs-pact
-
-Injectable Pact.js Consumer/Producer for NestJS
-
-[pact-foundation/nestjs-pact](https://github.com/pact-foundation/nestjs-pact) - 🌟 25
-
-## p0vidl0/nestjs-real-ip
-
-A concise decorator for retrieving an IP address from http request with Nest.js controller method.
-
-[p0vidl0/nestjs-real-ip](https://github.com/p0vidl0/nestjs-real-ip) - 🌟 24
-
-## chf007/nestjs-wechat-work
-
-企业微信 NestJS 工具包，目前主要包括企业微信 API 的 Service 封装、登录校验守卫(JWT实现)、扫码登录支持等功能。
-
-[chf007/nestjs-wechat-work](https://github.com/chf007/nestjs-wechat-work) - 🌟 24
-
-## rubiin/nestjs-pgpromise
-
-A Module for Utilizing Pg-promise with NestJS
-
-[rubiin/nestjs-pgpromise](https://github.com/rubiin/nestjs-pgpromise) - 🌟 24
-
-## whefter/nestjs-joi
-
-Easy to use JoiPipe as an interface between joi and NestJS with optional decorator-based schema construction.
-
-[whefter/nestjs-joi](https://github.com/whefter/nestjs-joi) - 🌟 23
-
-## NimitzDEV/nestjs-electron-ipc-transport
-
-Integrate NestJS into electron application using IPC messages
-
-[NimitzDEV/nestjs-electron-ipc-transport](https://github.com/NimitzDEV/nestjs-electron-ipc-transport) - 🌟 23
-
-## svtslv/nestjs-objection
-
-Objection module for NestJS
-
-[svtslv/nestjs-objection](https://github.com/svtslv/nestjs-objection) - 🌟 23
+[LWJerri/Pauperial](https://github.com/LWJerri/Pauperial) - 🌟 30
 
 ## risenforces/nestjs-zod
 
 All NestJS + Zod utilities you need
 
-[risenforces/nestjs-zod](https://github.com/risenforces/nestjs-zod) - 🌟 22
+[risenforces/nestjs-zod](https://github.com/risenforces/nestjs-zod) - 🌟 28
 
-## seidelmartin/nest-koa-adapter
+## boty-design/fast-gateway
 
-Koa Http adapter for Nest.js
+[boty-design/fast-gateway](https://github.com/boty-design/fast-gateway) - 🌟 28
 
-[seidelmartin/nest-koa-adapter](https://github.com/seidelmartin/nest-koa-adapter) - 🌟 22
+## brz95/telegram-tasks-bot-nestjs
 
-## djedlajn/nestjs-minio-client
+ToDo in Telegram
 
-Minio client sdk for NestJS
+[brz95/telegram-tasks-bot-nestjs](https://github.com/brz95/telegram-tasks-bot-nestjs) - 🌟 27
 
-[djedlajn/nestjs-minio-client](https://github.com/djedlajn/nestjs-minio-client) - 🌟 22
+## evershopcommerce/evershop
 
-## anchan828/nest-bull
+An ecommerce platform with Node and React
 
-[anchan828/nest-bull](https://github.com/anchan828/nest-bull) - 🌟 22
+[evershopcommerce/evershop](https://github.com/evershopcommerce/evershop) - 🌟 26
 
-## abonifacio/nestjs-request-context
+## karafra/ai-art
 
-Helper library for accesing request from singleton services
+Discord bot generating images from given query
 
-[abonifacio/nestjs-request-context](https://github.com/abonifacio/nestjs-request-context) - 🌟 21
+[karafra/ai-art](https://github.com/karafra/ai-art) - 🌟 24
 
-## nest-x/nestx-amqp
+## codeedu/live-imersao-fullcycle8-nestjs-clean-architecture
 
-Provide an AMQP connection as NestJS Module. Internally use amqp-connection-manager.
+[codeedu/live-imersao-fullcycle8-nestjs-clean-architecture](https://github.com/codeedu/live-imersao-fullcycle8-nestjs-clean-architecture) - 🌟 23
 
-[nest-x/nestx-amqp](https://github.com/nest-x/nestx-amqp) - 🌟 19
+## ForestAdmin/agent-nodejs
 
-## samchon/nestia-helper
+🌱  Node.js agent for Forest Admin
 
-NestJS with AES Encryption
+[ForestAdmin/agent-nodejs](https://github.com/ForestAdmin/agent-nodejs) - 🌟 22
 
-[samchon/nestia-helper](https://github.com/samchon/nestia-helper) - 🌟 18
+## MoeidHeidari/intersection-over-union
 
-## pedrosodre/nestjs-config-extended
+The intersection-over-Union app is a service that takes the coordinates of the ground truth bounding box & predicted bounding box and returns the IoU value between 0 and 1
 
-[pedrosodre/nestjs-config-extended](https://github.com/pedrosodre/nestjs-config-extended) - 🌟 18
+[MoeidHeidari/intersection-over-union](https://github.com/MoeidHeidari/intersection-over-union) - 🌟 20
 
-## clayrisser/nestjs-keycloak
+## jinmao88/vben3
 
-nestjs module for authenticating keycloak
+[jinmao88/vben3](https://github.com/jinmao88/vben3) - 🌟 19
 
-[clayrisser/nestjs-keycloak](https://github.com/clayrisser/nestjs-keycloak) - 🌟 17
+## MisaelMa/recreando
 
-## owen1002/nestjs-winston-logger
+For CFDI 4.0 XML https://docs.signati.app
 
-A logger integrating winston and wrapped by nestjs
+[MisaelMa/recreando](https://github.com/MisaelMa/recreando) - 🌟 19
 
-[owen1002/nestjs-winston-logger](https://github.com/owen1002/nestjs-winston-logger) - 🌟 16
+## MoeidHeidari/nestjs-boilerplate
 
-## lehh/nestjs-soap
+This is a boilerplate for Nodejs (Nestjs/typescript) that can be used to make http server application.
 
-Nestjs module wrapper for soap npm package
+[MoeidHeidari/nestjs-boilerplate](https://github.com/MoeidHeidari/nestjs-boilerplate) - 🌟 19
 
-[lehh/nestjs-soap](https://github.com/lehh/nestjs-soap) - 🌟 15
+## MoeidHeidari/log-parser
 
-## danielwii/asuna-node-server
+Log parser takes a log input file and tries to parse it to extract useful information
 
-node server for asuna-admin
+[MoeidHeidari/log-parser](https://github.com/MoeidHeidari/log-parser) - 🌟 19
 
-[danielwii/asuna-node-server](https://github.com/danielwii/asuna-node-server) - 🌟 14
+## BrewInteractive/export-service-nestjs
+
+[BrewInteractive/export-service-nestjs](https://github.com/BrewInteractive/export-service-nestjs) - 🌟 18
+
+## adisreyaj/show-off
+
+How often do you get asked about the gadgets or software that you use? If the answer is quite often, you should be trying show off out. Curate the list of gadgets and software and share it with your fans and followers.
+
+[adisreyaj/show-off](https://github.com/adisreyaj/show-off) - 🌟 17
+
+## joinbloomapp/stock-market-game
+
+We built the stock market game that we always wanted. Compete with friends by simulating investing in over 4000+ stocks.
+
+[joinbloomapp/stock-market-game](https://github.com/joinbloomapp/stock-market-game) - 🌟 16
+
+## aspect-build/rules_ts
+
+Bazel rules for the `tsc` compiler from http://typescriptlang.org
+
+[aspect-build/rules_ts](https://github.com/aspect-build/rules_ts) - 🌟 15
+
+## razzkumar/nestjs-aws-secrets-manager
+
+A Nest module wrapper for aws secrets manager
+
+[razzkumar/nestjs-aws-secrets-manager](https://github.com/razzkumar/nestjs-aws-secrets-manager) - 🌟 14
 
 ## hellokvn/nestjs-event-sourcing
 
-[hellokvn/nestjs-event-sourcing](https://github.com/hellokvn/nestjs-event-sourcing) - 🌟 13
+[hellokvn/nestjs-event-sourcing](https://github.com/hellokvn/nestjs-event-sourcing) - 🌟 14
 
-## adrianbrs/nest-oidc-provider
+## innovationacademy-kr/42dashboard
 
-oidc-provider module for Nest framework (node.js)
+[innovationacademy-kr/42dashboard](https://github.com/innovationacademy-kr/42dashboard) - 🌟 13
 
-[adrianbrs/nest-oidc-provider](https://github.com/adrianbrs/nest-oidc-provider) - 🌟 13
+## Aliheym/typeorm-transactional
 
-## cobraz/nestjs-envalid
+A Transactional Method Decorator for TypeORM that uses cls-hooked to handle and propagate transactions between different repositories and service methods.
 
-Simple wrapper on top of envalid for NestJS
+[Aliheym/typeorm-transactional](https://github.com/Aliheym/typeorm-transactional) - 🌟 12
 
-[cobraz/nestjs-envalid](https://github.com/cobraz/nestjs-envalid) - 🌟 12
+## shakilhasan/sabil
 
-## dotellie/nestjs-graphql-pagination
+A full-functional (Work in progress now) ecommerce web application that is developed by using MERN (MongoDB, Express.js, React.js, and Node.js)
 
-Decorators to allow easily building up relay compatible pagination types
+[shakilhasan/sabil](https://github.com/shakilhasan/sabil) - 🌟 12
 
-[dotellie/nestjs-graphql-pagination](https://github.com/dotellie/nestjs-graphql-pagination) - 🌟 12
+## walking-sunset/selection-task
 
-## costianur95/nestjs-fcm
+원티드 프리온보딩 선발과제입니다.
 
-[costianur95/nestjs-fcm](https://github.com/costianur95/nestjs-fcm) - 🌟 11
+[walking-sunset/selection-task](https://github.com/walking-sunset/selection-task) - 🌟 12
 
-## SocketSomeone/nestjs-hot-shots
+## Throyer/nodejs-api-rest-example
 
-🐶 Hot-shots Module for Nest.js Framework
+ NodeJS CRUD + Typescript + TypeOrm + Routing Controllers
 
-[SocketSomeone/nestjs-hot-shots](https://github.com/SocketSomeone/nestjs-hot-shots) - 🌟 10
+[Throyer/nodejs-api-rest-example](https://github.com/Throyer/nodejs-api-rest-example) - 🌟 12
 
-## temarusanov/nestjs-response-structure
+## navn-r/drawhub
 
-NestJS response payload structure
+Draw, together.
 
-[temarusanov/nestjs-response-structure](https://github.com/temarusanov/nestjs-response-structure) - 🌟 10
+[navn-r/drawhub](https://github.com/navn-r/drawhub) - 🌟 11
 
-## fjodor-rybakov/nestjs-dynamic-providers
+## H4ad/node-modules-packer
 
-💉 Inject providers into module by glob pattern
+Pack all your node_modules and other files you want inside your project to a zip file.
 
-[fjodor-rybakov/nestjs-dynamic-providers](https://github.com/fjodor-rybakov/nestjs-dynamic-providers) - 🌟 10
+[H4ad/node-modules-packer](https://github.com/H4ad/node-modules-packer) - 🌟 11
 
-## BeerMoneyDev/nest-qldb
+## memphisdev/memphis.js
 
-Object Document Mapper connecting NestJS to QLDB Quantum Ledger Database
+Node.js client for Memphis. Memphis is a dev-first event processing platform
 
-[BeerMoneyDev/nest-qldb](https://github.com/BeerMoneyDev/nest-qldb) - 🌟 10
+[memphisdev/memphis.js](https://github.com/memphisdev/memphis.js) - 🌟 10
 
-## wisekaa03/nestjs-ldap
+## thinc-org/cugetreg-frontend
 
-NestJS library to access LDAP
+A course registration planning application for CU students
 
-[wisekaa03/nestjs-ldap](https://github.com/wisekaa03/nestjs-ldap) - 🌟 10
+[thinc-org/cugetreg-frontend](https://github.com/thinc-org/cugetreg-frontend) - 🌟 10
 
-## iamolegga/nestjs-configure-after
+## codeedu/live-imersao-fullcycle9-nestjs
 
-Declarative configuration of NestJS middleware order
+[codeedu/live-imersao-fullcycle9-nestjs](https://github.com/codeedu/live-imersao-fullcycle9-nestjs) - 🌟 10
 
-[iamolegga/nestjs-configure-after](https://github.com/iamolegga/nestjs-configure-after) - 🌟 10
+## ts-rest/ts-rest
+
+RPC-like client, contract, and server implementation for a pure REST API
+
+[ts-rest/ts-rest](https://github.com/ts-rest/ts-rest) - 🌟 10
+
+## productdevbook/full-stack-monorepo
+
+It is a monorepo that includes all end-to-end resolutions. You can create a website, API and mobile application.
+
+[productdevbook/full-stack-monorepo](https://github.com/productdevbook/full-stack-monorepo) - 🌟 10
+
+## Crypto-Phunks/nft-sales-twitter-bot
+
+[Crypto-Phunks/nft-sales-twitter-bot](https://github.com/Crypto-Phunks/nft-sales-twitter-bot) - 🌟 10
+
+## babakDoraniArab/nest-taskmanagement-practice
+
+[babakDoraniArab/nest-taskmanagement-practice](https://github.com/babakDoraniArab/nest-taskmanagement-practice) - 🌟 10

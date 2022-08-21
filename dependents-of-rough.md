@@ -10,7 +10,7 @@ These repos are sorted by their stars and their `package.json` is updated in the
 
 A plugin to edit and view Excalidraw drawings in Obsidian
 
-[zsviczian/obsidian-excalidraw-plugin](https://github.com/zsviczian/obsidian-excalidraw-plugin) - 🌟 944
+[zsviczian/obsidian-excalidraw-plugin](https://github.com/zsviczian/obsidian-excalidraw-plugin) - 🌟 957
 
 ## miyuesc/bpmn-process-designer
 
@@ -22,7 +22,7 @@ Base on Vue 2.x and ElementUI，基于 Bpmn.js、Vue 2.x 和 ElementUI 的流程
 
 💥 A flexible rendering engine for visualization.
 
-[antvis/G](https://github.com/antvis/G) - 🌟 781
+[antvis/G](https://github.com/antvis/G) - 🌟 782
 
 ## martinRenou/ipycanvas
 
@@ -34,19 +34,19 @@ Interactive Canvas in Jupyter
 
 Create comics for your website or app
 
-[gramener/comicgen](https://github.com/gramener/comicgen) - 🌟 521
+[gramener/comicgen](https://github.com/gramener/comicgen) - 🌟 522
 
 ## dai-shi/excalidraw-animate
 
 A tool to animate Excalidraw drawings
 
-[dai-shi/excalidraw-animate](https://github.com/dai-shi/excalidraw-animate) - 🌟 486
+[dai-shi/excalidraw-animate](https://github.com/dai-shi/excalidraw-animate) - 🌟 487
 
 ## Zaid-Ajaj/Feliz
 
 A fresh retake of the React API in Fable and a collection of high-quality components to build React applications in F#, optimized for happiness
 
-[Zaid-Ajaj/Feliz](https://github.com/Zaid-Ajaj/Feliz) - 🌟 434
+[Zaid-Ajaj/Feliz](https://github.com/Zaid-Ajaj/Feliz) - 🌟 435
 
 ## omnibrain/svguitar
 
@@ -58,7 +58,7 @@ Create beautiful SVG guitar chord charts
 
 CLI that analyzes web components and emits documentation
 
-[runem/web-component-analyzer](https://github.com/runem/web-component-analyzer) - 🌟 394
+[runem/web-component-analyzer](https://github.com/runem/web-component-analyzer) - 🌟 395
 
 ## smaranjitghose/doc2pen
 
@@ -70,7 +70,7 @@ An open source project aimed at making your student life easier!
 
 A tool based on Excalidraw to create stop motion animations and slides.
 
-[dai-shi/excalidraw-claymate](https://github.com/dai-shi/excalidraw-claymate) - 🌟 303
+[dai-shi/excalidraw-claymate](https://github.com/dai-shi/excalidraw-claymate) - 🌟 304
 
 ## linkstrifer/react-rough-notation
 
@@ -82,7 +82,7 @@ React wrapper for rough-notation
 
 A graph view to navigate your Obsidian vault
 
-[zsviczian/excalibrain](https://github.com/zsviczian/excalibrain) - 🌟 206
+[zsviczian/excalibrain](https://github.com/zsviczian/excalibrain) - 🌟 208
 
 ## elmsln/lrnwebcomponents
 
@@ -94,19 +94,19 @@ A graph view to navigate your Obsidian vault
 
 Chrome/Firefox/Edge Extension bilibili img uploader。哔哩哔哩图床上传插件.https://chrome.google.com/webstore/detail/b%E7%AB%99%E5%9B%BE%E5%BA%8A/domljbndjbjgpkhdbmfgmiclggdfojnd?hl=zh-CN
 
-[xlzy520/bilibili-img-uploader](https://github.com/xlzy520/bilibili-img-uploader) - 🌟 197
-
-## haxzie/snipp.in
-
-Fast, Light-weight, Notes, Snippet manager and code editor directly inside your browser
-
-[haxzie/snipp.in](https://github.com/haxzie/snipp.in) - 🌟 184
+[xlzy520/bilibili-img-uploader](https://github.com/xlzy520/bilibili-img-uploader) - 🌟 199
 
 ## freesewing/freesewing
 
 Freesewing's monorepo holding all our NPM packages, including our core library
 
-[freesewing/freesewing](https://github.com/freesewing/freesewing) - 🌟 176
+[freesewing/freesewing](https://github.com/freesewing/freesewing) - 🌟 197
+
+## haxzie/snipp.in
+
+Fast, Light-weight, Notes, Snippet manager and code editor directly inside your browser
+
+[haxzie/snipp.in](https://github.com/haxzie/snipp.in) - 🌟 186
 
 ## fariapp/fari-app
 
@@ -136,7 +136,7 @@ Create sketchy, hand-drawn-like images from SVGs
 
 ✏️rough-notation component for @vuejs, support Vue2 & 3.
 
-[Leecason/vue-rough-notation](https://github.com/Leecason/vue-rough-notation) - 🌟 70
+[Leecason/vue-rough-notation](https://github.com/Leecason/vue-rough-notation) - 🌟 71
 
 ## MissThee/hand-drawn-component
 
@@ -154,7 +154,7 @@ Convert SVGs into Excalidraw data
 
 Code for my personal home page
 
-[peterbe/django-peterbecom](https://github.com/peterbe/django-peterbecom) - 🌟 48
+[peterbe/django-peterbecom](https://github.com/peterbe/django-peterbecom) - 🌟 49
 
 ## tangtan/iStoryline.js
 
@@ -190,7 +190,7 @@ An intuitive online IDE with integrated whiteboard ✨
 
 A mobile web app to help families do grocery and meal planning.
 
-[peterbe/groce](https://github.com/peterbe/groce) - 🌟 14
+[peterbe/groce](https://github.com/peterbe/groce) - 🌟 15
 
 ## artemdemo/imgreview
 
@@ -276,6 +276,18 @@ Random GoFood from your unofficial API
 
 [ans-4175/random-gofood](https://github.com/ans-4175/random-gofood) - 🌟 5
 
+## UreekaBiz/pm-devtool
+
+ProseMirror-based Editor
+
+[UreekaBiz/pm-devtool](https://github.com/UreekaBiz/pm-devtool) - 🌟 4
+
+## yenbekbay/archcode-heritage-novel
+
+A visual novel-like interactive experience. For Archcode Almaty
+
+[yenbekbay/archcode-heritage-novel](https://github.com/yenbekbay/archcode-heritage-novel) - 🌟 4
+
 ## jaredly/geometricart
 
 [jaredly/geometricart](https://github.com/jaredly/geometricart) - 🌟 4
@@ -291,18 +303,6 @@ Random GoFood from your unofficial API
 My personal website (WIP)
 
 [lukefisklennon/website](https://github.com/lukefisklennon/website) - 🌟 4
-
-## UreekaBiz/pm-devtool
-
-ProseMirror-based Editor
-
-[UreekaBiz/pm-devtool](https://github.com/UreekaBiz/pm-devtool) - 🌟 3
-
-## yenbekbay/archcode-heritage-novel
-
-A visual novel-like interactive experience. For Archcode Almaty
-
-[yenbekbay/archcode-heritage-novel](https://github.com/yenbekbay/archcode-heritage-novel) - 🌟 3
 
 ## worktile/plait
 

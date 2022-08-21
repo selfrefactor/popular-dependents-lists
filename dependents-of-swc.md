@@ -1,4 +1,4 @@
-# Popular dependents of **SWC(Rust-based platform for the Web)** list
+# Popular dependents of **SWC(Rust-based platform for the Web)**
 
 This list contains Github repos depending on **swc-project/swc**. 
 
