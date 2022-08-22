@@ -1,11 +1,21 @@
 # List with all **Popular dependents** lists
 
 * [Angular](https://github.com/selfrefactor/popular-dependents-lists/blob/master/dependents-of-angular.md) - list of 87 repos
-* [CucumberJs](https://github.com/selfrefactor/popular-dependents-lists/blob/master/dependents-of-cucumberjs.md) - list of 213 repos
+* [Playwright](https://github.com/selfrefactor/popular-dependents-lists/blob/master/dependents-of-playwright.md) - list of 255 repos
+* [Bun](https://github.com/selfrefactor/popular-dependents-lists/blob/master/dependents-of-bun.md) - list of 5 repos
 * [FpTs](https://github.com/selfrefactor/popular-dependents-lists/blob/master/dependents-of-fpts.md) - list of 236 repos
+* [MagicCss](https://github.com/selfrefactor/popular-dependents-lists/blob/master/dependents-of-magiccss.md) - list of 2 repos
+* [NextJs](https://github.com/selfrefactor/popular-dependents-lists/blob/master/dependents-of-nextjs.md) - list of 3 repos
+* [Rambda](https://github.com/selfrefactor/popular-dependents-lists/blob/master/dependents-of-rambda.md) - list of 298 repos
+* [Rambdax](https://github.com/selfrefactor/popular-dependents-lists/blob/master/dependents-of-rambdax.md) - list of 14 repos
+* [Ramda](https://github.com/selfrefactor/popular-dependents-lists/blob/master/dependents-of-ramda.md) - list of 124 repos
 * [Rough](https://github.com/selfrefactor/popular-dependents-lists/blob/master/dependents-of-rough.md) - list of 69 repos
 * [Rxjs](https://github.com/selfrefactor/popular-dependents-lists/blob/master/dependents-of-rxjs.md) - list of 232 repos
+* [Vitest](https://github.com/selfrefactor/popular-dependents-lists/blob/master/dependents-of-vitest.md) - list of 399 repos
+* [Kefir](https://github.com/selfrefactor/popular-dependents-lists/blob/master/dependents-of-kefir.md) - list of 57 repos
 * [Nest](https://github.com/selfrefactor/popular-dependents-lists/blob/master/dependents-of-nest.md) - list of 43 repos
+* [Puppeteer](https://github.com/selfrefactor/popular-dependents-lists/blob/master/dependents-of-puppeteer.md) - list of 92 repos
+* [Seneca](https://github.com/selfrefactor/popular-dependents-lists/blob/master/dependents-of-seneca.md) - list of 11 repos
 * [Swc](https://github.com/selfrefactor/popular-dependents-lists/blob/master/dependents-of-swc.md) - list of 9 repos
 * [WebAudioApi](https://github.com/selfrefactor/popular-dependents-lists/blob/master/dependents-of-webaudioapi.md) - list of 18 repos
 
@@ -45,39 +55,71 @@ Angular markdown component/directive/pipe/service to parse static, dynamic or re
 
 ---
 
-## CucumberJs
+## Playwright
 
-### hyperledger/fabric-sdk-node
+### blockprotocol/blockprotocol
 
-Hyperledger Fabric SDK for Node https://wiki.hyperledger.org/display/fabric
+The open block protocol  Þ
 
-[hyperledger/fabric-sdk-node](https://github.com/hyperledger/fabric-sdk-node) - 🌟 748
+[blockprotocol/blockprotocol](https://github.com/blockprotocol/blockprotocol) - 🌟 979
 
-### bugsnag/bugsnag-js
+### LedgerHQ/ledger-live-desktop
 
-Javascript error handling tool for Bugsnag. Monitor and report JavaScript bugs & errors.
+⛔️ DEPRECATED - Ledger Live (Desktop)
 
-[bugsnag/bugsnag-js](https://github.com/bugsnag/bugsnag-js) - 🌟 731
+[LedgerHQ/ledger-live-desktop](https://github.com/LedgerHQ/ledger-live-desktop) - 🌟 974
 
-### tiddly-gittly/TidGi-Desktop
+### hannoeru/vite-plugin-pages
 
-TidGi is an privatcy-in-mind, automated, auto-git-backup, freely-deployed Tiddlywiki knowledge management Desktop note app, with local REST API. 「 太记 」是一个基于「 太微 TiddlyWiki 」的知识管理桌面应用，能保护隐私内容、高级自动化、自动Git云备份、部署为博客，且可通过RESTAPI与Anki等应用连接。（迭代开发中欢迎试用，开发进度见下方链接）(Under active development, see website below for details) 
+File system based route generator for ⚡️Vite
 
-[tiddly-gittly/TidGi-Desktop](https://github.com/tiddly-gittly/TidGi-Desktop) - 🌟 702
+[hannoeru/vite-plugin-pages](https://github.com/hannoeru/vite-plugin-pages) - 🌟 970
 
-### pubnub/javascript
+### adobe/spectrum-css
 
-PubNub JavaScript SDK docs https://www.pubnub.com/docs/sdks/javascript
+The standard CSS implementation of the Spectrum design language.
 
-[pubnub/javascript](https://github.com/pubnub/javascript) - 🌟 526
+[adobe/spectrum-css](https://github.com/adobe/spectrum-css) - 🌟 968
 
-### webdriverio/cucumber-boilerplate
+### nodejs/readable-stream
 
-Boilerplate project to run WebdriverIO tests with Cucumber
+Node-core streams for userland
 
-[webdriverio/cucumber-boilerplate](https://github.com/webdriverio/cucumber-boilerplate) - 🌟 462
+[nodejs/readable-stream](https://github.com/nodejs/readable-stream) - 🌟 942
 
 ---
+
+## Bun
+
+### clavascript/cherry
+
+Experimental ClojureScript to ES6 module compiler
+
+[clavascript/cherry](https://github.com/clavascript/cherry) - 🌟 164
+
+### alii/website
+
+My personal website
+
+[alii/website](https://github.com/alii/website) - 🌟 93
+
+### joshcawthorne/LunaDesk
+
+The people-first scheduling tool, coming 2022. LunaDesk is a web app, originally created by Josh Cawthorne and known as "WorkFrom" for the Supabase Hackathon.
+
+[joshcawthorne/LunaDesk](https://github.com/joshcawthorne/LunaDesk) - 🌟 77
+
+### Zikoat/infinite-minesweeper
+
+An infinite, open source Minesweeper, Based on borbit's mienfield.com
+
+[Zikoat/infinite-minesweeper](https://github.com/Zikoat/infinite-minesweeper) - 🌟 21
+
+### guocaoyi/create-bun
+
+bun boilerplate, npm starter
+
+[guocaoyi/create-bun](https://github.com/guocaoyi/create-bun) - 🌟 10---
 
 ## FpTs
 
@@ -110,6 +152,142 @@ Merge Tailwind CSS classes without style conflicts
 Gas usage per unit test. Average gas usage per method. A mocha reporter. 
 
 [cgewecke/eth-gas-reporter](https://github.com/cgewecke/eth-gas-reporter) - 🌟 537
+
+---
+
+## MagicCss
+
+### akirarika/kurimudb
+
+⚓ 足够简单的前端存储解决方案
+
+[akirarika/kurimudb](https://github.com/akirarika/kurimudb) - 🌟 218
+
+### viblo-asia/about.viblo.asia
+
+A landing page for Viblo Platform
+
+[viblo-asia/about.viblo.asia](https://github.com/viblo-asia/about.viblo.asia) - 🌟 5---
+
+## NextJs
+
+### tutorbookapp/tutorbook
+
+Web app that helps schools and nonprofits connect students with expert mentors and volunteer tutors.
+
+[tutorbookapp/tutorbook](https://github.com/tutorbookapp/tutorbook) - 🌟 49
+
+### shunkakinoki/shunkakinoki.com
+
+My Personal Website :smirk::eyes::hotsprings:
+
+[shunkakinoki/shunkakinoki.com](https://github.com/shunkakinoki/shunkakinoki.com) - 🌟 17
+
+### stackbit-themes/starter-nextjs-theme
+
+Starter Next.js theme for Stackbit V2
+
+[stackbit-themes/starter-nextjs-theme](https://github.com/stackbit-themes/starter-nextjs-theme) - 🌟 13---
+
+## Rambda
+
+### unlock-protocol/unlock
+
+Ʉnlock is a protocol for memberships built on a blockchain.
+
+[unlock-protocol/unlock](https://github.com/unlock-protocol/unlock) - 🌟 673
+
+### char0n/ramda-adjunct
+
+Ramda Adjunct is the most popular and most comprehensive set of functional utilities for use with Ramda, providing a variety of useful, well tested functions with excellent documentation.
+
+[char0n/ramda-adjunct](https://github.com/char0n/ramda-adjunct) - 🌟 642
+
+### OpenZeppelin/openzeppelin-contracts-upgradeable
+
+Upgradeable variant of OpenZeppelin Contracts, meant for use in upgradeable contracts. 
+
+[OpenZeppelin/openzeppelin-contracts-upgradeable](https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable) - 🌟 622
+
+### nymtech/nym
+
+Nym provides strong network-level privacy against sophisticated end-to-end attackers, and anonymous transactions using blinded, re-randomizable, decentralized credentials.
+
+[nymtech/nym](https://github.com/nymtech/nym) - 🌟 583
+
+### caderek/benny
+
+A dead simple benchmarking framework for JS/TS libs
+
+[caderek/benny](https://github.com/caderek/benny) - 🌟 582
+
+---
+
+## Rambdax
+
+### selfrefactor/rambdax
+
+Extended version of Rambda 
+
+[selfrefactor/rambdax](https://github.com/selfrefactor/rambdax) - 🌟 189
+
+### sethyuan/logseq-plugin-tocgen
+
+Generate a TOC of any page anywhere to quickly access the page's content.
+
+[sethyuan/logseq-plugin-tocgen](https://github.com/sethyuan/logseq-plugin-tocgen) - 🌟 62
+
+### sethyuan/logseq-plugin-wrap
+
+Create your own wrappings with optional key bindings for selected text, a set of useful defaults is also provided.
+
+[sethyuan/logseq-plugin-wrap](https://github.com/sethyuan/logseq-plugin-wrap) - 🌟 49
+
+### roblav96/robinhood.tools
+
+📈🤑💰 Advanced trading tools and resources for Robinhood Web.
+
+[roblav96/robinhood.tools](https://github.com/roblav96/robinhood.tools) - 🌟 28
+
+### sethyuan/logseq-plugin-batch-op
+
+Perform queries on the current graph and batch process on the results.
+
+[sethyuan/logseq-plugin-batch-op](https://github.com/sethyuan/logseq-plugin-batch-op) - 🌟 16
+
+---
+
+## Ramda
+
+### sid88in/serverless-appsync-plugin
+
+serverless plugin for appsync
+
+[sid88in/serverless-appsync-plugin](https://github.com/sid88in/serverless-appsync-plugin) - 🌟 900
+
+### facultyai/dash-bootstrap-components
+
+Bootstrap components for Plotly Dash
+
+[facultyai/dash-bootstrap-components](https://github.com/facultyai/dash-bootstrap-components) - 🌟 885
+
+### planttheidea/moize
+
+The consistently-fast, complete memoization solution for JS
+
+[planttheidea/moize](https://github.com/planttheidea/moize) - 🌟 763
+
+### aknuds1/html-to-react
+
+A lightweight library that converts raw HTML to a React DOM structure.
+
+[aknuds1/html-to-react](https://github.com/aknuds1/html-to-react) - 🌟 702
+
+### vform666/variant-form
+
+A powerful form designer for Vue.
+
+[vform666/variant-form](https://github.com/vform666/variant-form) - 🌟 682
 
 ---
 
@@ -181,6 +359,74 @@ Neo4j Browser is the general purpose user interface for working with Neo4j. Quer
 
 ---
 
+## Vitest
+
+### hannoeru/vite-plugin-pages
+
+File system based route generator for ⚡️Vite
+
+[hannoeru/vite-plugin-pages](https://github.com/hannoeru/vite-plugin-pages) - 🌟 960
+
+### solidjs/solid-start
+
+SolidStart, the Solid app framework
+
+[solidjs/solid-start](https://github.com/solidjs/solid-start) - 🌟 925
+
+### antfu/case-police
+
+🚨 Make the case correct, PLEASE!
+
+[antfu/case-police](https://github.com/antfu/case-police) - 🌟 897
+
+### unjs/unbuild
+
+An unified javascript build system
+
+[unjs/unbuild](https://github.com/unjs/unbuild) - 🌟 790
+
+### MatteoGabriele/vue-progressive-image
+
+Vue progressive image loading plugin
+
+[MatteoGabriele/vue-progressive-image](https://github.com/MatteoGabriele/vue-progressive-image) - 🌟 704
+
+---
+
+## Kefir
+
+### rpldy/react-uploady
+
+Modern file uploading - components & hooks for React
+
+[rpldy/react-uploady](https://github.com/rpldy/react-uploady) - 🌟 671
+
+### gajus/youtube-player
+
+YouTube iframe API abstraction.
+
+[gajus/youtube-player](https://github.com/gajus/youtube-player) - 🌟 309
+
+### metrico/qryn
+
+qryn is a polyglot, high-performance observability stack for ClickHouse (formerly cLoki). Ingest and analyze logs, metrics and traces from any agent supporting Loki, Prometheus, OTLP/Tempo, Elastic, InfluxDB and many more!
+
+[metrico/qryn](https://github.com/metrico/qryn) - 🌟 294
+
+### atlassian-labs/react-resource-router
+
+Configuration driven routing solution for React SPAs that manages route matching, data fetching and progressive rendering
+
+[atlassian-labs/react-resource-router](https://github.com/atlassian-labs/react-resource-router) - 🌟 181
+
+### albertogasparin/react-magnetic-di
+
+Dependency injection and replacement for React components and hooks
+
+[albertogasparin/react-magnetic-di](https://github.com/albertogasparin/react-magnetic-di) - 🌟 105
+
+---
+
 ## Nest
 
 ### udleinati/redirect.center
@@ -210,6 +456,74 @@ Questions selected by Love Babbar, helps you to track your progress in solving 4
 ### rolling-scopes-school/nodejs-course-template
 
 [rolling-scopes-school/nodejs-course-template](https://github.com/rolling-scopes-school/nodejs-course-template) - 🌟 45
+
+---
+
+## Puppeteer
+
+### adriancooney/puppeteer-heap-snapshot
+
+API and CLI tool to fetch and query Chome DevTools heap snapshots.
+
+[adriancooney/puppeteer-heap-snapshot](https://github.com/adriancooney/puppeteer-heap-snapshot) - 🌟 841
+
+### Tencent/wujie
+
+极致的微前端框架
+
+[Tencent/wujie](https://github.com/Tencent/wujie) - 🌟 780
+
+### NG-ZORRO/ng-zorro-antd-mobile
+
+A configurable Mobile UI components based on Ant Design Mobile and Angular. 🐜
+
+[NG-ZORRO/ng-zorro-antd-mobile](https://github.com/NG-ZORRO/ng-zorro-antd-mobile) - 🌟 762
+
+### gauntface/simple-push-demo
+
+A simple example of use push notifications on the web using Service Workers
+
+[gauntface/simple-push-demo](https://github.com/gauntface/simple-push-demo) - 🌟 756
+
+### ful1e5/Bibata_Cursor
+
+Opensource, compact, and material designed cursor set.
+
+[ful1e5/Bibata_Cursor](https://github.com/ful1e5/Bibata_Cursor) - 🌟 737
+
+---
+
+## Seneca
+
+### jamro/jsbattle
+
+JavaScript Programming Game (inspired by RoboCode)
+
+[jamro/jsbattle](https://github.com/jamro/jsbattle) - 🌟 89
+
+### nextcloud/external
+
+🌐 Embed external sites in your Nextcloud
+
+[nextcloud/external](https://github.com/nextcloud/external) - 🌟 83
+
+### senecajs/seneca-transport
+
+Seneca micro-services message transport over TCP and HTTP.
+
+[senecajs/seneca-transport](https://github.com/senecajs/seneca-transport) - 🌟 64
+
+### senecajs/seneca-mongo-store
+
+Node.js Seneca data storage plugin for MongoDB
+
+[senecajs/seneca-mongo-store](https://github.com/senecajs/seneca-mongo-store) - 🌟 34
+
+### senecajs/seneca-entity
+
+Entity plugin for seneca
+
+[senecajs/seneca-entity](https://github.com/senecajs/seneca-entity) - 🌟 13
 
 ---
 
