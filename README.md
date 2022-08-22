@@ -4,7 +4,7 @@
 * [Playwright](https://github.com/selfrefactor/popular-dependents-lists/blob/master/dependents-of-playwright.md) - list of 255 repos
 * [Bun](https://github.com/selfrefactor/popular-dependents-lists/blob/master/dependents-of-bun.md) - list of 5 repos
 * [FpTs](https://github.com/selfrefactor/popular-dependents-lists/blob/master/dependents-of-fpts.md) - list of 236 repos
-* [MagicCss](https://github.com/selfrefactor/popular-dependents-lists/blob/master/dependents-of-magiccss.md) - list of 2 repos
+* [Magic](https://github.com/selfrefactor/popular-dependents-lists/blob/master/dependents-of-magic.md) - list of 2 repos
 * [NextJs](https://github.com/selfrefactor/popular-dependents-lists/blob/master/dependents-of-nextjs.md) - list of 3 repos
 * [Rambda](https://github.com/selfrefactor/popular-dependents-lists/blob/master/dependents-of-rambda.md) - list of 298 repos
 * [Rambdax](https://github.com/selfrefactor/popular-dependents-lists/blob/master/dependents-of-rambdax.md) - list of 14 repos
@@ -155,7 +155,7 @@ Gas usage per unit test. Average gas usage per method. A mocha reporter.
 
 ---
 
-## MagicCss
+## Magic
 
 ### akirarika/kurimudb
 
